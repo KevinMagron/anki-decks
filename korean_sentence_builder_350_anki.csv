@@ -1,0 +1,351 @@
+﻿Front,Back,Tags
+What does 은/는 mark?,<b>은/는</b><br><b>English:</b> topic / contrast<br><b>Sorani:</b> بابەت / بەراورد<br><b>Pattern:</b> consonant → 은; vowel → 는,T01_foundation pattern
+What does 이/가 mark?,<b>이/가</b><br><b>English:</b> subject<br><b>Sorani:</b> بکەر<br><b>Pattern:</b> consonant → 이; vowel → 가,T01_foundation pattern
+What does 을/를 mark?,<b>을/를</b><br><b>English:</b> object<br><b>Sorani:</b> بەرکار<br><b>Pattern:</b> consonant → 을; vowel → 를,T01_foundation pattern
+What are the three main jobs of 에?,"<b>에</b><br><b>English:</b> destination, time, static location<br><b>Sorani:</b> مەبەست، کات، شوێنی جێگیر<br><b>Pattern:</b> 에 ≠ place where an action happens",T01_foundation pattern
+What does 에서 mark?,<b>에서</b><br><b>English:</b> place where an action happens<br><b>Sorani:</b> شوێنی ڕوودانی کردار<br><b>Pattern:</b> 부엌에서 요리해요,T01_foundation pattern
+책 + topic marker → ?,<b>책은</b><br><b>English:</b> as for the book…<br><b>Sorani:</b> سەبارەت بە کتێبەکە…<br><b>Pattern:</b> 책 ends in consonant → 은,T01_foundation pattern
+사과 + topic marker → ?,<b>사과는</b><br><b>English:</b> as for the apple…<br><b>Sorani:</b> سەبارەت بە سێوەکە…<br><b>Pattern:</b> 사과 ends in vowel → 는,T01_foundation pattern
+책 + subject marker → ?,<b>책이</b><br><b>English:</b> the book (subject)<br><b>Sorani:</b> کتێبەکە وەک بکەر<br><b>Pattern:</b> 책 ends in consonant → 이,T01_foundation pattern
+비 + subject marker → ?,<b>비가</b><br><b>English:</b> rain (subject)<br><b>Sorani:</b> باران وەک بکەر<br><b>Pattern:</b> 비 ends in vowel → 가,T01_foundation pattern
+책 + object marker → ?,<b>책을</b><br><b>English:</b> the book (object)<br><b>Sorani:</b> کتێبەکە وەک بەرکار<br><b>Pattern:</b> 책 ends in consonant → 을,T01_foundation pattern
+커피 + object marker → ?,<b>커피를</b><br><b>English:</b> coffee (object)<br><b>Sorani:</b> قاوە وەک بەرکار<br><b>Pattern:</b> 커피 ends in vowel → 를,T01_foundation pattern
+Build: I make food in the kitchen.,<b>저는 부엌에서 음식을 만들어요.</b><br><b>English:</b> I make food in the kitchen.<br><b>Sorani:</b> من لە چێشتخانە خواردن دروست دەکەم.<br><b>Pattern:</b> topic + action-place + object + verb,T01_foundation production
+Korean often drops the subject when…?,<b>주어 생략</b><br><b>English:</b> the subject is clear from context<br><b>Sorani:</b> کاتێک بکەر لە کۆنتێکستەوە ڕوونە، زۆرجار لادەبرێت<br><b>Pattern:</b> 먹어요 can mean I/you/he/she eats depending on context,T01_foundation pattern
+Why can 이 책 좋아해요 omit 을?,<b>이 책(을) 좋아해요.</b><br><b>English:</b> I like this book.<br><b>Sorani:</b> حەزم بەم کتێبەیە.<br><b>Pattern:</b> 을/를 is often dropped in conversation when the object is obvious,T01_foundation comprehension
+Choose: this / that near listener / that over there,<b>이 / 그 / 저</b><br><b>English:</b> this / that / that over there<br><b>Sorani:</b> ئەم / ئەو / ئەوەی لەوێ<br><b>Pattern:</b> speaker-near / listener-known / far from both,T01_foundation pattern
+"Make the colloquial 'thing' forms: 이것, 그것, 저것",<b>이거 / 그거 / 저거</b><br><b>English:</b> this thing / that thing / that thing over there<br><b>Sorani:</b> ئەمە / ئەوە / ئەوەی لەوێ<br><b>Pattern:</b> 것 → 거 in everyday speech,T01_foundation pattern
+What is the difference: 책을 vs 책이?,<b>책을 / 책이</b><br><b>English:</b> book as object / book as subject<br><b>Sorani:</b> کتێب وەک بەرکار / کتێب وەک بکەر<br><b>Pattern:</b> 을 = object; 이 = subject,T01_foundation pattern
+오늘은 비가 왔어요. Identify topic and subject.,"<b>오늘은 = topic; 비가 = subject</b><br><b>English:</b> As for today, it rained.<br><b>Sorani:</b> ئەمڕۆ باران باری.<br><b>Pattern:</b> 은 frames today; 가 marks rain as subject",T01_foundation comprehension
+사과가 비쌌어요. Why 가?,<b>사과가 비쌌어요.</b><br><b>English:</b> The apples were expensive.<br><b>Sorani:</b> سێوەکان گران بوون.<br><b>Pattern:</b> 사과 is what has the property 비싸다 → subject,T01_foundation comprehension
+사과는 비쌌어요. What nuance does 는 add?,"<b>사과는 비쌌어요.</b><br><b>English:</b> As for the apples, they were expensive.<br><b>Sorani:</b> سەبارەت بە سێوەکان، گران بوون.<br><b>Pattern:</b> 는 sets/contrasts the topic",T01_foundation comprehension
+부엌에 있어요 vs 부엌에서 요리해요,<b>에 = static location; 에서 = action location</b><br><b>English:</b> be in the kitchen / cook in the kitchen<br><b>Sorani:</b> لە چێشتخانە بوون / لە چێشتخانە چێشت لێنان<br><b>Pattern:</b> location exists → 에; action occurs → 에서,T01_foundation pattern
+Build: I live in Seoul.,<b>서울에 살아요.</b><br><b>English:</b> I live in Seoul.<br><b>Sorani:</b> لە سێئول دەژیم.<br><b>Pattern:</b> 살다 → 살- → 살아요; residence/static location → 에,T01_foundation production
+Build: We meet on Saturday.,<b>토요일에 만나요.</b><br><b>English:</b> We meet on Saturday.<br><b>Sorani:</b> شەممە یەکتر دەبینین.<br><b>Pattern:</b> time + 에; 만나다 → 만나- → 만나요,T01_foundation production
+Build: How much is this?,<b>이거 얼마예요?</b><br><b>English:</b> How much is this?<br><b>Sorani:</b> ئەمە چەندە؟<br><b>Pattern:</b> 이거=this thing; 얼마=how much,T01_foundation production
+Build: How much is that over there?,<b>저거 얼마예요?</b><br><b>English:</b> How much is that over there?<br><b>Sorani:</b> ئەوەی لەوێ چەندە؟<br><b>Pattern:</b> 저거 = that thing over there,T01_foundation production
+이 책 좋아해요. What is omitted?,<b>이 책(을) 좋아해요.</b><br><b>English:</b> I like this book.<br><b>Sorani:</b> حەزم بەم کتێبەیە.<br><b>Pattern:</b> object particle 을 is omitted,T01_foundation comprehension
+"In 오늘은 비가 왔어요, why isn't 오늘 the subject?","<b>오늘은</b><br><b>English:</b> today is the topic/frame, not the thing doing 오다<br><b>Sorani:</b> ئەمڕۆ بابەت/چوارچێوەی ڕستەکەیە، نە بکەر<br><b>Pattern:</b> 비가 is the subject: rain is what &#x27;came/fell&#x27;",T01_foundation pattern
+Which usually comes last in a Korean clause?,<b>동사/형용사</b><br><b>English:</b> the verb or adjective/predicate<br><b>Sorani:</b> کردار یان هاوەڵناو/پێشبڕ<br><b>Pattern:</b> Korean is typically predicate-final,T01_foundation pattern
+Can 부엌에서 and 음식을 change order?,<b>네: 저는 음식을 부엌에서 만들어요.</b><br><b>English:</b> Yes; particles keep the roles clear.<br><b>Sorani:</b> بەڵێ؛ پاشگرەکان ڕۆڵەکان ڕوون دەکەن.<br><b>Pattern:</b> middle elements are flexible; predicate normally stays last,T01_foundation comprehension
+Build: The weather is good.,<b>날씨가 좋아요.</b><br><b>English:</b> The weather is good.<br><b>Sorani:</b> کەشوهەوا باشە.<br><b>Pattern:</b> 좋다 describes 날씨 → 날씨가 is subject,T01_foundation production
+먹다: dictionary form → stem → present polite,"<b>먹다 → 먹- → 먹어요</b><br><b>English:</b> eat → eat<br><b>Sorani:</b> خواردن → دەخۆم<br><b>Pattern:</b> For 아요/어요, inspect the LAST vowel of the stem",T02_conjugation pattern
+가다: dictionary form → stem → present polite,<b>가다 → 가- → 가요</b><br><b>English:</b> go → go<br><b>Sorani:</b> چوون → دەچم<br><b>Pattern:</b> last stem vowel ㅏ → 아요; contraction 가아요 → 가요,T02_conjugation pattern
+보다: dictionary form → stem → present polite,<b>보다 → 보- → 봐요</b><br><b>English:</b> see/watch → see/watch<br><b>Sorani:</b> بینین/سەیرکردن → دەبینم<br><b>Pattern:</b> 보 + 아요 → 보아요 → 봐요,T02_conjugation pattern
+하다: present polite,<b>하다 → 하- → 해요</b><br><b>English:</b> do<br><b>Sorani:</b> کردن<br><b>Pattern:</b> 하 + 여요 historically → 해요,T02_conjugation pattern
+먹다: past polite,<b>먹다 → 먹- → 먹었어요</b><br><b>English:</b> ate<br><b>Sorani:</b> خوارد<br><b>Pattern:</b> 먹- + 었어요,T02_conjugation pattern
+가다: past polite,<b>가다 → 가- → 갔어요</b><br><b>English:</b> went<br><b>Sorani:</b> چوو<br><b>Pattern:</b> 가 + 았어요 → 갔어요,T02_conjugation pattern
+하다: past polite,<b>하다 → 했어요</b><br><b>English:</b> did<br><b>Sorani:</b> کرد<br><b>Pattern:</b> 해요 → 했어요,T02_conjugation pattern
+보다: past polite,<b>보다 → 봤어요</b><br><b>English:</b> saw/watched<br><b>Sorani:</b> بینی/سەیری کرد<br><b>Pattern:</b> 봐요 → 봤어요,T02_conjugation pattern
+먹다: future/intention with -(으)ㄹ 거예요,<b>먹을 거예요.</b><br><b>English:</b> will / am going to eat<br><b>Sorani:</b> دەخۆم / نیازی خواردنم هەیە<br><b>Pattern:</b> consonant stem → 을 거예요,T02_conjugation pattern
+가다: future/intention with -(으)ㄹ 거예요,<b>갈 거예요.</b><br><b>English:</b> will / am going to go<br><b>Sorani:</b> دەچم / نیازی چوونم هەیە<br><b>Pattern:</b> vowel stem → ㄹ 거예요,T02_conjugation pattern
+"For 아요/어요, which vowel do you inspect?",<b>어간의 마지막 모음</b><br><b>English:</b> the LAST vowel of the stem<br><b>Sorani:</b> کۆتا بزوێنی ڕەگی کردار<br><b>Pattern:</b> not the first vowel of the whole word,T02_conjugation pattern
+만나다 → present polite,<b>만나다 → 만나- → 만나요</b><br><b>English:</b> meet<br><b>Sorani:</b> یەکتر بینین<br><b>Pattern:</b> last stem vowel ㅏ → 아요,T02_conjugation pattern
+만들다 → present polite,<b>만들다 → 만들- → 만들어요</b><br><b>English:</b> make<br><b>Sorani:</b> دروستکردن<br><b>Pattern:</b> last stem vowel ㅡ → 어요,T02_conjugation pattern
+좋아하다 → present → past,<b>좋아하다 → 좋아해요 → 좋아했어요</b><br><b>English:</b> like → liked<br><b>Sorani:</b> حەزکردن → حەزی لێکرد<br><b>Pattern:</b> normal 하다 conjugation,T02_conjugation pattern
+비싸다 → present → past,<b>비싸다 → 비싸요 → 비쌌어요</b><br><b>English:</b> be expensive → was expensive<br><b>Sorani:</b> گران بوون → گران بوو<br><b>Pattern:</b> descriptive verb/adjective conjugates like a predicate,T02_conjugation pattern
+오다 → past polite,<b>오다 → 오- → 왔어요</b><br><b>English:</b> came<br><b>Sorani:</b> هات<br><b>Pattern:</b> 오 + 았어요 → 왔어요,T02_conjugation pattern
+켜다 → present polite,<b>켜다 → 켜- → 켜요</b><br><b>English:</b> turn on<br><b>Sorani:</b> هەڵکردن/کردنەوە<br><b>Pattern:</b> 켜 + 어요 → 켜요,T02_conjugation pattern
+Build: I ate food.,<b>음식을 먹었어요.</b><br><b>English:</b> I ate food.<br><b>Sorani:</b> خواردنم خوارد.<br><b>Pattern:</b> 먹다 → 먹었어요; 음식을 = object,T02_conjugation production
+Build: I will go tomorrow.,<b>내일 갈 거예요.</b><br><b>English:</b> I will go tomorrow.<br><b>Sorani:</b> سبەی دەچم.<br><b>Pattern:</b> 가다 → 갈 거예요; subject omitted,T02_conjugation production
+Build: I watched a movie.,<b>영화를 봤어요.</b><br><b>English:</b> I watched a movie.<br><b>Sorani:</b> فیلمێکم سەیر کرد.<br><b>Pattern:</b> 보다 → 봤어요; 영화 + 를,T02_conjugation production
+Build: I did exercise.,<b>운동했어요.</b><br><b>English:</b> I exercised.<br><b>Sorani:</b> وەرزشم کرد.<br><b>Pattern:</b> 운동하다 → 운동했어요,T02_conjugation production
+Build: The book was expensive.,<b>책이 비쌌어요.</b><br><b>English:</b> The book was expensive.<br><b>Sorani:</b> کتێبەکە گران بوو.<br><b>Pattern:</b> 책 is subject of 비싸다,T02_conjugation production
+Read: 음악을 들었어요.,<b>음악을 들었어요.</b><br><b>English:</b> I listened to music.<br><b>Sorani:</b> گوێم لە مۆسیقا گرت.<br><b>Pattern:</b> 듣다 is ㄷ-irregular: 듣- → 들- → 들었어요,T02_conjugation comprehension
+Read: 서울에 살았어요.,<b>서울에 살았어요.</b><br><b>English:</b> I lived in Seoul.<br><b>Sorani:</b> لە سێئول ژیام.<br><b>Pattern:</b> 살다 → 살았어요; 에 = static/residential location,T02_conjugation comprehension
+Change 먹어요 to past.,<b>먹었어요.</b><br><b>English:</b> ate<br><b>Sorani:</b> خوارد<br><b>Pattern:</b> 어요 → 었어요 here,T02_conjugation production
+Change 가요 to past.,<b>갔어요.</b><br><b>English:</b> went<br><b>Sorani:</b> چوو<br><b>Pattern:</b> 가요 → 갔어요,T02_conjugation production
+Change 해요 to past.,<b>했어요.</b><br><b>English:</b> did<br><b>Sorani:</b> کرد<br><b>Pattern:</b> 해요 → 했어요,T02_conjugation production
+Change 봐요 to past.,<b>봤어요.</b><br><b>English:</b> saw/watched<br><b>Sorani:</b> بینی/سەیری کرد<br><b>Pattern:</b> 봐요 → 봤어요,T02_conjugation production
+What is the stem of 좋아하다?,<b>좋아하-</b><br><b>English:</b> stem of 좋아하다<br><b>Sorani:</b> ڕەگی 좋아하다<br><b>Pattern:</b> remove 다 → 좋아하-,T02_conjugation pattern
+What is the stem of 만들다?,<b>만들-</b><br><b>English:</b> stem of 만들다<br><b>Sorani:</b> ڕەگی 만들다<br><b>Pattern:</b> remove 다 → 만들-,T02_conjugation pattern
+Pattern: want to + verb,<b>-고 싶어요</b><br><b>English:</b> want to…<br><b>Sorani:</b> دەمەوێت…<br><b>German:</b> wollen / möchten<br><b>Pattern:</b> verb stem + 고 싶어요,T04_modality pattern
+Build: I want to eat.,<b>먹고 싶어요.</b><br><b>English:</b> I want to eat.<br><b>Sorani:</b> دەمەوێت بخۆم.<br><b>German:</b> Ich möchte essen.<br><b>Pattern:</b> 먹다 → 먹- → 먹고 싶어요,T04_modality production
+Build: I want to go to Seoul.,<b>서울에 가고 싶어요.</b><br><b>English:</b> I want to go to Seoul.<br><b>Sorani:</b> دەمەوێت بچمە سێئول.<br><b>German:</b> Ich möchte nach Seoul gehen.<br><b>Pattern:</b> 가다 → 가- → 가고 싶어요; destination → 에,T04_modality production
+Build: I want to learn Korean.,<b>한국어를 배우고 싶어요.</b><br><b>English:</b> I want to learn Korean.<br><b>Sorani:</b> دەمەوێت کۆری فێر ببم.<br><b>German:</b> Ich möchte Koreanisch lernen.<br><b>Pattern:</b> 배우다 → 배우- → 배우고 싶어요,T04_modality production
+Read: 음악을 듣고 싶어요.,"<b>음악을 듣고 싶어요.</b><br><b>English:</b> I want to listen to music.<br><b>Sorani:</b> دەمەوێت گوێ لە مۆسیقا بگرم.<br><b>Pattern:</b> With -고, 듣다 stays 듣-: 듣고 싶어요",T04_modality comprehension
+Pattern: can / be able to,<b>-(으)ㄹ 수 있어요</b><br><b>English:</b> can / be able to<br><b>Sorani:</b> دەتوانێت…<br><b>German:</b> können<br><b>Pattern:</b> consonant stem → 을 수; vowel stem → ㄹ 수,T04_modality pattern
+Build: I can eat.,<b>먹을 수 있어요.</b><br><b>English:</b> I can eat.<br><b>Sorani:</b> دەتوانم بخۆم.<br><b>German:</b> Ich kann essen.<br><b>Pattern:</b> 먹- ends consonant → 먹을 수 있어요,T04_modality production
+Build: I can go.,<b>갈 수 있어요.</b><br><b>English:</b> I can go.<br><b>Sorani:</b> دەتوانم بچم.<br><b>German:</b> Ich kann gehen.<br><b>Pattern:</b> 가- ends vowel → 갈 수 있어요,T04_modality production
+Build: I can read Korean.,<b>한국어를 읽을 수 있어요.</b><br><b>English:</b> I can read Korean.<br><b>Sorani:</b> دەتوانم کۆری بخوێنمەوە.<br><b>German:</b> Ich kann Koreanisch lesen.<br><b>Pattern:</b> 읽다 → 읽- → 읽을 수 있어요,T04_modality production
+Build: Can you go today?,<b>오늘 갈 수 있어요?</b><br><b>English:</b> Can you go today?<br><b>Sorani:</b> ئەمڕۆ دەتوانیت بچیت؟<br><b>German:</b> Kannst du heute gehen?<br><b>Pattern:</b> subject omitted; 갈 수 있어요? = can go?,T04_modality production
+Pattern: can't because unable,<b>못 + verb</b><br><b>English:</b> cannot / be unable to<br><b>Sorani:</b> ناتوانێت…<br><b>German:</b> nicht können<br><b>Pattern:</b> 못 goes before the predicate,T04_modality pattern
+Build: I can't go today.,<b>오늘은 못 가요.</b><br><b>English:</b> I can&#x27;t go today.<br><b>Sorani:</b> ئەمڕۆ ناتوانم بچم.<br><b>German:</b> Ich kann heute nicht gehen.<br><b>Pattern:</b> 못 + 가요; 오늘은 sets today&#x27;s frame,T04_modality production
+Build: I can't eat this.,<b>이거 못 먹어요.</b><br><b>English:</b> I can&#x27;t eat this.<br><b>Sorani:</b> ناتوانم ئەمە بخۆم.<br><b>German:</b> Ich kann das nicht essen.<br><b>Pattern:</b> 이거(를) object particle can be omitted,T04_modality production
+Why can't you eat it?,<b>왜 못 먹어요?</b><br><b>English:</b> Why can&#x27;t you eat it?<br><b>Sorani:</b> بۆچی ناتوانیت بیخۆیت؟<br><b>German:</b> Warum kannst du es nicht essen?<br><b>Pattern:</b> 왜 + 못 + verb,T04_modality production
+Can vs can't: 갈 수 있어요 / 못 가요,<b>갈 수 있어요 / 못 가요</b><br><b>English:</b> can go / can&#x27;t go<br><b>Sorani:</b> دەتوانم بچم / ناتوانم بچم<br><b>German:</b> kann gehen / kann nicht gehen<br><b>Pattern:</b> ability contrast,T04_modality comprehension
+Pattern: must / have to,<b>-아/어야 해요</b><br><b>English:</b> must / have to<br><b>Sorani:</b> دەبێت…<br><b>German:</b> müssen<br><b>Pattern:</b> use 아/어 form + 야 해요,T04_modality pattern
+Build: I have to eat.,<b>먹어야 해요.</b><br><b>English:</b> I have to eat.<br><b>Sorani:</b> دەبێت بخۆم.<br><b>German:</b> Ich muss essen.<br><b>Pattern:</b> 먹- last vowel ㅓ → 먹어야 해요,T04_modality production
+Build: I have to go.,<b>가야 해요.</b><br><b>English:</b> I have to go.<br><b>Sorani:</b> دەبێت بچم.<br><b>German:</b> Ich muss gehen.<br><b>Pattern:</b> 가- + 아야 → 가야 해요,T04_modality production
+Build: I have to study today.,<b>오늘은 공부해야 해요.</b><br><b>English:</b> I have to study today.<br><b>Sorani:</b> ئەمڕۆ دەبێت بخوێنم.<br><b>German:</b> Ich muss heute lernen.<br><b>Pattern:</b> 공부하다 → 공부해요 → 공부해야 해요,T04_modality production
+Read: 지금 자야 해요.,<b>지금 자야 해요.</b><br><b>English:</b> I have to sleep now.<br><b>Sorani:</b> ئێستا دەبێت بخەوم.<br><b>German:</b> Ich muss jetzt schlafen.<br><b>Pattern:</b> 자다 → 자- → 자야 해요,T04_modality comprehension
+Pattern: may / it is okay to,<b>-아/어도 돼요</b><br><b>English:</b> may / be allowed to<br><b>Sorani:</b> ڕێگەپێدراوە / دەتوانیت…<br><b>German:</b> dürfen<br><b>Pattern:</b> 아/어 form + 도 돼요,T04_modality pattern
+Build: You may eat.,<b>먹어도 돼요.</b><br><b>English:</b> You may eat.<br><b>Sorani:</b> دەتوانیت بخۆیت.<br><b>German:</b> Du darfst essen.<br><b>Pattern:</b> 먹- → 먹어도 돼요,T04_modality production
+Build: May I go now?,<b>지금 가도 돼요?</b><br><b>English:</b> May I go now?<br><b>Sorani:</b> ئێستا دەتوانم بچم؟<br><b>German:</b> Darf ich jetzt gehen?<br><b>Pattern:</b> 가다 → 가도 돼요?,T04_modality production
+Build: May I sit here?,<b>여기 앉아도 돼요?</b><br><b>English:</b> May I sit here?<br><b>Sorani:</b> دەتوانم لێرە دانیشم؟<br><b>German:</b> Darf ich hier sitzen?<br><b>Pattern:</b> 앉다 → 앉아도 돼요,T04_modality production
+Must vs may: 먹어야 해요 / 먹어도 돼요,<b>먹어야 해요 / 먹어도 돼요</b><br><b>English:</b> must eat / may eat<br><b>Sorani:</b> دەبێت بخۆیت / دەتوانیت بخۆیت<br><b>German:</b> muss essen / darf essen<br><b>Pattern:</b> 야 = obligation; 도 돼요 = permission,T04_modality comprehension
+Pattern: should (advice),<b>-는 게 좋아요</b><br><b>English:</b> should / it is good to…<br><b>Sorani:</b> باشە کە…<br><b>German:</b> sollen / besser<br><b>Pattern:</b> verb + 는 게 좋아요,T04_modality pattern
+Build: You should sleep.,<b>자는 게 좋아요.</b><br><b>English:</b> You should sleep.<br><b>Sorani:</b> باشە بخەویت.<br><b>German:</b> Du solltest schlafen.<br><b>Pattern:</b> 자다 → 자는 게 좋아요,T04_modality production
+Build: You should study Korean every day.,<b>매일 한국어를 공부하는 게 좋아요.</b><br><b>English:</b> You should study Korean every day.<br><b>Sorani:</b> باشە هەموو ڕۆژێک کۆری بخوێنیت.<br><b>German:</b> Du solltest jeden Tag Koreanisch lernen.<br><b>Pattern:</b> 공부하다 → 공부하는 게 좋아요,T04_modality production
+Strong obligation vs advice,<b>가야 해요 / 가는 게 좋아요</b><br><b>English:</b> have to go / should go<br><b>Sorani:</b> دەبێت بچیت / باشە بچیت<br><b>German:</b> müssen / sollen<br><b>Pattern:</b> 야 해요 is stronger than 는 게 좋아요,T04_modality comprehension
+좋아하다 means…,<b>좋아하다</b><br><b>English:</b> to like<br><b>Sorani:</b> حەزکردن<br><b>German:</b> mögen<br><b>Pattern:</b> 좋아하다 → 좋아하- → 좋아해요,T04_modality pattern
+Build: I like coffee.,<b>커피를 좋아해요.</b><br><b>English:</b> I like coffee.<br><b>Sorani:</b> حەزم بە قاوەیە.<br><b>German:</b> Ich mag Kaffee.<br><b>Pattern:</b> 커피를 = object of 좋아하다,T04_modality production
+Build: I like this book.,<b>이 책을 좋아해요.</b><br><b>English:</b> I like this book.<br><b>Sorani:</b> حەزم بەم کتێبەیە.<br><b>German:</b> Ich mag dieses Buch.<br><b>Pattern:</b> 이=this; 책을=object,T04_modality production
+좋아하다 vs 좋다,<b>좋아하다 = to like; 좋다 = to be good</b><br><b>English:</b> I like X / X is good<br><b>Sorani:</b> حەزم بە Xە / X باشە<br><b>German:</b> mögen / gut sein<br><b>Pattern:</b> 책을 좋아해요 vs 책이 좋아요,T04_modality pattern
+Build: This book is good.,<b>이 책이 좋아요.</b><br><b>English:</b> This book is good.<br><b>Sorani:</b> ئەم کتێبە باشە.<br><b>German:</b> Dieses Buch ist gut.<br><b>Pattern:</b> 좋다 describes 책 → subject 이,T04_modality production
+Build: I don't like this book.,<b>이 책을 안 좋아해요.</b><br><b>English:</b> I don&#x27;t like this book.<br><b>Sorani:</b> حەزم بەم کتێبە نییە.<br><b>German:</b> Ich mag dieses Buch nicht.<br><b>Pattern:</b> 좋아하다 is normally negated as 안 좋아해요,T04_modality production
+Pattern: need / be necessary,<b>필요하다</b><br><b>English:</b> to need / be necessary<br><b>Sorani:</b> پێویست بوون<br><b>German:</b> brauchen / nötig sein<br><b>Pattern:</b> often X가 필요해요 = X is needed / I need X,T04_modality pattern
+Build: I need time.,<b>시간이 필요해요.</b><br><b>English:</b> I need time.<br><b>Sorani:</b> کاتم پێویستە.<br><b>German:</b> Ich brauche Zeit.<br><b>Pattern:</b> 시간이 is subject of 필요하다,T04_modality production
+Build: I need water.,<b>물이 필요해요.</b><br><b>English:</b> I need water.<br><b>Sorani:</b> ئاوم پێویستە.<br><b>German:</b> Ich brauche Wasser.<br><b>Pattern:</b> 물 + 이 → 물이,T04_modality production
+Read: 한국어를 배우고 싶지만 시간이 없어요.,"<b>한국어를 배우고 싶지만 시간이 없어요.</b><br><b>English:</b> I want to learn Korean, but I don&#x27;t have time.<br><b>Sorani:</b> دەمەوێت کۆری فێر ببم، بەڵام کاتم نییە.<br><b>Pattern:</b> 고 싶다 + 지만; 시간이 없다",T04_modality comprehension
+Build: I can speak a little Korean.,<b>한국어를 조금 말할 수 있어요.</b><br><b>English:</b> I can speak a little Korean.<br><b>Sorani:</b> دەتوانم کەمێک بە کۆری قسە بکەم.<br><b>German:</b> Ich kann ein bisschen Koreanisch sprechen.<br><b>Pattern:</b> 말하다 → 말할 수 있어요; 조금=a little,T04_modality production
+Build: I want to live in Seoul.,<b>서울에 살고 싶어요.</b><br><b>English:</b> I want to live in Seoul.<br><b>Sorani:</b> دەمەوێت لە سێئول بژیم.<br><b>German:</b> Ich möchte in Seoul wohnen.<br><b>Pattern:</b> 살다 → 살- → 살고 싶어요,T04_modality production
+Build: I have to make food.,<b>음식을 만들어야 해요.</b><br><b>English:</b> I have to make food.<br><b>Sorani:</b> دەبێت خواردن دروست بکەم.<br><b>German:</b> Ich muss Essen machen.<br><b>Pattern:</b> 만들다 → 만들어요 → 만들어야 해요,T04_modality production
+Build: Can we eat here?,<b>여기에서 먹을 수 있어요?</b><br><b>English:</b> Can we eat here?<br><b>Sorani:</b> دەتوانین لێرە بخۆین؟<br><b>German:</b> Können wir hier essen?<br><b>Pattern:</b> action location → 에서; 먹을 수 있어요?,T04_modality production
+Build: Why do you want to go?,<b>왜 가고 싶어요?</b><br><b>English:</b> Why do you want to go?<br><b>Sorani:</b> بۆچی دەتەوێت بچیت؟<br><b>German:</b> Warum möchtest du gehen?<br><b>Pattern:</b> 왜 + 가고 싶어요?,T04_modality production
+Read: 지금은 갈 수 없어요.,<b>지금은 갈 수 없어요.</b><br><b>English:</b> I can&#x27;t go now.<br><b>Sorani:</b> ئێستا ناتوانم بچم.<br><b>German:</b> Ich kann jetzt nicht gehen.<br><b>Pattern:</b> -(으)ㄹ 수 없어요 is another &#x27;cannot&#x27; pattern,T04_modality comprehension
+What is the basic short negation word?,<b>안</b><br><b>English:</b> not / don&#x27;t<br><b>Sorani:</b> نا-/نە<br><b>Pattern:</b> 안 + predicate,T04_negation pattern
+Build: I don't go.,<b>안 가요.</b><br><b>English:</b> I don&#x27;t go.<br><b>Sorani:</b> ناچم.<br><b>Pattern:</b> 안 + 가요,T04_negation production
+Build: I don't eat meat.,<b>고기를 안 먹어요.</b><br><b>English:</b> I don&#x27;t eat meat.<br><b>Sorani:</b> گۆشت ناخۆم.<br><b>Pattern:</b> 고기를=object; 안 먹어요=don&#x27;t eat,T04_negation production
+안 vs 못,<b>안 = don&#x27;t; 못 = can&#x27;t</b><br><b>English:</b> choice/not doing vs inability<br><b>Sorani:</b> نەکردن / نەتوانین<br><b>Pattern:</b> 안 가요 ≠ 못 가요,T04_negation pattern
+Build: I don't exercise.,<b>운동 안 해요.</b><br><b>English:</b> I don&#x27;t exercise.<br><b>Sorani:</b> وەرزش ناکەم.<br><b>Pattern:</b> 운동(을) 안 해요; noun+하다 often separates,T04_negation production
+Why does 안 appear inside 운동하다?,<b>운동(을) 안 해요.</b><br><b>English:</b> because 운동하다 is noun + 하다; 안 negates 하다<br><b>Sorani:</b> چونکە 운동하다 لە ناو + 하다 پێکهاتووە و 안 کردارەکە ڕەت دەکات<br><b>Pattern:</b> 운동하다 → 운동 안 해요,T04_negation comprehension
+Build: I don't study today.,<b>오늘은 공부 안 해요.</b><br><b>English:</b> I don&#x27;t study today.<br><b>Sorani:</b> ئەمڕۆ ناخوێنم.<br><b>Pattern:</b> 공부(를) 안 해요,T04_negation production
+Build: I don't cook.,<b>요리 안 해요.</b><br><b>English:</b> I don&#x27;t cook.<br><b>Sorani:</b> چێشت نالێنم.<br><b>Pattern:</b> 요리하다 → 요리 안 해요,T04_negation production
+Build: I'm not hungry.,<b>배가 안 고파요.</b><br><b>English:</b> I&#x27;m not hungry.<br><b>Sorani:</b> برسی نیم.<br><b>Pattern:</b> 고프다 → 고파요; 안 고파요,T04_negation production
+Why can 배 안 고파요 omit 가?,<b>배(가) 안 고파요.</b><br><b>English:</b> the subject marker is obvious and often dropped in speech<br><b>Sorani:</b> پاشگری بکەر زۆرجار لە گفتوگۆدا لادەبرێت کاتێک ڕوونە<br><b>Pattern:</b> 배가 is subject; 안 negates 고파요,T04_negation comprehension
+Build: This isn't expensive.,<b>이거 안 비싸요.</b><br><b>English:</b> This isn&#x27;t expensive.<br><b>Sorani:</b> ئەمە گران نییە.<br><b>Pattern:</b> 안 + 비싸요,T04_negation production
+Build: I don't know.,<b>몰라요.</b><br><b>English:</b> I don&#x27;t know.<br><b>Sorani:</b> نازانم.<br><b>Pattern:</b> 모르다 is the normal verb &#x27;not know&#x27;; don&#x27;t say 안 알아요 for this meaning,T04_negation production
+Build: There is no time.,<b>시간이 없어요.</b><br><b>English:</b> There is no time / I don&#x27;t have time.<br><b>Sorani:</b> کات نییە / کاتم نییە.<br><b>Pattern:</b> 없다 = not exist / not have,T04_negation production
+있어요 vs 없어요,<b>있어요 / 없어요</b><br><b>English:</b> there is / there isn&#x27;t; have / don&#x27;t have<br><b>Sorani:</b> هەیە / نییە<br><b>Pattern:</b> existence/possession pair,T04_negation pattern
+Build: I don't have money.,<b>돈이 없어요.</b><br><b>English:</b> I don&#x27;t have money.<br><b>Sorani:</b> پارەم نییە.<br><b>Pattern:</b> 돈이 + 없어요,T04_negation production
+Build: I can't hear well.,<b>잘 못 들어요.</b><br><b>English:</b> I can&#x27;t hear well.<br><b>Sorani:</b> باش نابیستم.<br><b>Pattern:</b> 잘=well; 못=can&#x27;t; 듣다 → 들어요,T04_negation production
+Read: 오늘은 커피를 안 마셔요.,<b>오늘은 커피를 안 마셔요.</b><br><b>English:</b> I don&#x27;t drink coffee today.<br><b>Sorani:</b> ئەمڕۆ قاوە ناخۆمەوە.<br><b>Pattern:</b> 오늘은 topic; 커피를 object; 안 마셔요,T04_negation comprehension
+Read: 지금은 못 만나요.,<b>지금은 못 만나요.</b><br><b>English:</b> I can&#x27;t meet now.<br><b>Sorani:</b> ئێستا ناتوانم یەکتر ببینم.<br><b>Pattern:</b> 못 + 만나요,T04_negation comprehension
+Negate 좋아해요.,<b>안 좋아해요.</b><br><b>English:</b> don&#x27;t like<br><b>Sorani:</b> حەزی لێ ناکەم<br><b>Pattern:</b> 좋아하다 behaves as one lexical verb here,T04_negation production
+Negate 해요 in 운동해요.,<b>운동 안 해요.</b><br><b>English:</b> don&#x27;t exercise<br><b>Sorani:</b> وەرزش ناکەم<br><b>Pattern:</b> noun + 하다 → noun + 안 해요 is common,T04_negation production
+What happens in many ㄷ-irregular verbs before a vowel ending?,<b>ㄷ → ㄹ</b><br><b>English:</b> ㄷ changes to ㄹ<br><b>Sorani:</b> ㄷ دەگۆڕێت بۆ ㄹ<br><b>Pattern:</b> 듣다 → 들어요,T05_irregulars pattern
+듣다 → present polite,<b>듣다 → 듣- → 들- → 들어요</b><br><b>English:</b> listen / hear<br><b>Sorani:</b> گوێگرتن / بیستن<br><b>Pattern:</b> ㄷ-irregular before 어요,T05_irregulars pattern
+듣다 → past polite,<b>듣다 → 들었어요</b><br><b>English:</b> listened / heard<br><b>Sorani:</b> گوێی گرت / بیستی<br><b>Pattern:</b> 듣- → 들- + 었어요,T05_irregulars pattern
+Build: I listen to music.,<b>음악을 들어요.</b><br><b>English:</b> I listen to music.<br><b>Sorani:</b> گوێ لە مۆسیقا دەگرم.<br><b>Pattern:</b> 듣다 → 들어요,T05_irregulars production
+Build: I listened to music yesterday.,<b>어제 음악을 들었어요.</b><br><b>English:</b> I listened to music yesterday.<br><b>Sorani:</b> دوێنێ گوێم لە مۆسیقا گرت.<br><b>Pattern:</b> 듣다 → 들었어요,T05_irregulars production
+Does ㄷ change before -고?,"<b>아니요: 듣고</b><br><b>English:</b> No: 듣고<br><b>Sorani:</b> نەخێر: 듣고<br><b>Pattern:</b> ㄷ changes before vowel-starting endings, not consonant-starting -고",T05_irregulars pattern
+What happens in 르-irregular conjugation?,<b>르 → ㄹㄹ + 아/어요</b><br><b>English:</b> 르 produces a doubled ㄹ pattern<br><b>Sorani:</b> لە 르 زۆرجار شێوەی دوو ㄹ دروست دەبێت<br><b>Pattern:</b> 모르다 → 몰라요,T05_irregulars pattern
+모르다 → present polite,<b>모르다 → 몰라요</b><br><b>English:</b> not know<br><b>Sorani:</b> نەزانین<br><b>Pattern:</b> 모르- → 몰라요 (르-irregular),T05_irregulars pattern
+Build: I don't know why.,<b>왜 그런지 몰라요.</b><br><b>English:</b> I don&#x27;t know why.<br><b>Sorani:</b> نازانم بۆچی وایە.<br><b>Pattern:</b> 몰라요 is from 모르다,T05_irregulars production
+빠르다 → present polite,<b>빠르다 → 빨라요</b><br><b>English:</b> be fast<br><b>Sorani:</b> خێرا بوون<br><b>Pattern:</b> 르-irregular: 빠르- → 빨라요,T05_irregulars pattern
+What happens in many ㅂ-irregular adjectives/verbs?,<b>ㅂ → 우/오 before vowel endings</b><br><b>English:</b> ㅂ changes before vowel endings<br><b>Sorani:</b> ㅂ لەبەردەم پاشگری بزوێندار دەگۆڕێت<br><b>Pattern:</b> 덥다 → 더워요,T05_irregulars pattern
+덥다 → present polite,<b>덥다 → 더워요</b><br><b>English:</b> be hot (weather)<br><b>Sorani:</b> گەرم بوون<br><b>Pattern:</b> ㅂ-irregular,T05_irregulars pattern
+춥다 → present polite,<b>춥다 → 추워요</b><br><b>English:</b> be cold (weather)<br><b>Sorani:</b> سارد بوون<br><b>Pattern:</b> ㅂ-irregular,T05_irregulars pattern
+Build: Today is hot.,<b>오늘은 더워요.</b><br><b>English:</b> It&#x27;s hot today.<br><b>Sorani:</b> ئەمڕۆ گەرمە.<br><b>Pattern:</b> 덥다 → 더워요,T05_irregulars production
+Build: Yesterday was cold.,<b>어제는 추웠어요.</b><br><b>English:</b> It was cold yesterday.<br><b>Sorani:</b> دوێنێ سارد بوو.<br><b>Pattern:</b> 춥다 → 추워요 → 추웠어요,T05_irregulars production
+What happens in many ㅅ-irregular verbs?,<b>ㅅ drops before a vowel ending</b><br><b>English:</b> ㅅ disappears<br><b>Sorani:</b> ㅅ لادەچێت<br><b>Pattern:</b> 짓다 → 지어요,T05_irregulars pattern
+짓다 → present polite,<b>짓다 → 지어요</b><br><b>English:</b> build<br><b>Sorani:</b> بنیاتنان<br><b>Pattern:</b> ㅅ-irregular: 짓- → 지-,T05_irregulars pattern
+Build: They build a house.,<b>집을 지어요.</b><br><b>English:</b> They build a house.<br><b>Sorani:</b> ماڵ دروست دەکەن.<br><b>Pattern:</b> 짓다 → 지어요; 집을=object,T05_irregulars production
+What happens to many 으-ending stems before 아/어요?,<b>으 drops</b><br><b>English:</b> ㅡ often disappears<br><b>Sorani:</b> ㅡ زۆرجار لادەچێت<br><b>Pattern:</b> 쓰다 → 써요; 바쁘다 → 바빠요,T05_irregulars pattern
+쓰다 → present polite,<b>쓰다 → 써요</b><br><b>English:</b> write / use<br><b>Sorani:</b> نووسین / بەکارهێنان<br><b>Pattern:</b> ㅡ drops; choose 어/아 from preceding vowel,T05_irregulars pattern
+Build: I write Korean.,<b>한국어를 써요.</b><br><b>English:</b> I write Korean.<br><b>Sorani:</b> بە کۆری دەنووسم.<br><b>Pattern:</b> 쓰다 → 써요,T05_irregulars production
+바쁘다 → present polite,<b>바쁘다 → 바빠요</b><br><b>English:</b> be busy<br><b>Sorani:</b> سەرقاڵ بوون<br><b>Pattern:</b> ㅡ drops; preceding ㅏ → 아요,T05_irregulars pattern
+Build: I'm busy today.,<b>오늘은 바빠요.</b><br><b>English:</b> I&#x27;m busy today.<br><b>Sorani:</b> ئەمڕۆ سەرقاڵم.<br><b>Pattern:</b> 바쁘다 → 바빠요,T05_irregulars production
+What happens with many ㅎ-irregular adjectives?,<b>ㅎ changes/drops in certain vowel forms</b><br><b>English:</b> ㅎ changes in conjugation<br><b>Sorani:</b> ㅎ لە هەندێک گۆڕاندا دەگۆڕێت/لادەچێت<br><b>Pattern:</b> 그렇다 → 그래요,T05_irregulars pattern
+그렇다 → present polite,<b>그렇다 → 그래요</b><br><b>English:</b> be so / be like that<br><b>Sorani:</b> وا بوون<br><b>Pattern:</b> ㅎ-irregular contraction,T05_irregulars pattern
+어떻다 → present polite,<b>어떻다 → 어때요</b><br><b>English:</b> how is it?<br><b>Sorani:</b> چۆنە؟<br><b>Pattern:</b> ㅎ-irregular,T05_irregulars pattern
+Build: How is this?,<b>이거 어때요?</b><br><b>English:</b> How is this?<br><b>Sorani:</b> ئەمە چۆنە؟<br><b>Pattern:</b> 어떻다 → 어때요,T05_irregulars production
+Which common ㄹ-stem verb means 'live'?,<b>살다</b><br><b>English:</b> to live<br><b>Sorani:</b> ژیان<br><b>Pattern:</b> stem 살-; 살아요 is regular in 아요/어요,T05_irregulars pattern
+살다 → present / future modifier clue,<b>살아요 / 살</b><br><b>English:</b> live / will-live form begins 살-<br><b>Sorani:</b> دەژیم / شێوەی داهاتوو لە 살- دەست پێدەکات<br><b>Pattern:</b> ㄹ stems have special behavior with some endings learned later,T05_irregulars pattern
+Key irregular strategy,"<b>dictionary form → stem → identify final consonant/vowel → attach ending</b><br><b>English:</b> check the stem before memorizing the surface form<br><b>Sorani:</b> سەرەتا ڕەگ بدۆزەوە، پاشان یاسای گۆڕان ببینە<br><b>Pattern:</b> learn irregular families, not isolated forms",T05_irregulars pattern
+Connector: and / then between actions,<b>-고</b><br><b>English:</b> and / and then<br><b>Sorani:</b> و / پاشان<br><b>Pattern:</b> verb/adjective stem + 고,T06_connectors pattern
+Build: I eat and drink coffee.,<b>밥을 먹고 커피를 마셔요.</b><br><b>English:</b> I eat and drink coffee.<br><b>Sorani:</b> خواردن دەخۆم و قاوە دەخۆمەوە.<br><b>Pattern:</b> 먹다 → 먹고; second predicate carries tense/politeness,T06_connectors production
+Build: I study Korean and listen to music.,<b>한국어를 공부하고 음악을 들어요.</b><br><b>English:</b> I study Korean and listen to music.<br><b>Sorani:</b> کۆری دەخوێنم و گوێ لە مۆسیقا دەگرم.<br><b>Pattern:</b> 공부하다 → 공부하고; 듣다 → 들어요,T06_connectors production
+Read: 밥을 먹고 학교에 가요.,<b>밥을 먹고 학교에 가요.</b><br><b>English:</b> I eat and then go to school.<br><b>Sorani:</b> خواردن دەخۆم و پاشان دەچمە قوتابخانە.<br><b>Pattern:</b> -고 can link sequential actions,T06_connectors comprehension
+Connector: but / although,<b>-지만</b><br><b>English:</b> but / although<br><b>Sorani:</b> بەڵام / هەرچەندە<br><b>Pattern:</b> stem + 지만,T06_connectors pattern
+Build: It's expensive but good.,<b>비싸지만 좋아요.</b><br><b>English:</b> It&#x27;s expensive but good.<br><b>Sorani:</b> گرانە بەڵام باشە.<br><b>Pattern:</b> 비싸다 → 비싸지만; 좋다 → 좋아요,T06_connectors production
+"Build: I want to go, but I can't.","<b>가고 싶지만 못 가요.</b><br><b>English:</b> I want to go, but I can&#x27;t.<br><b>Sorani:</b> دەمەوێت بچم، بەڵام ناتوانم.<br><b>Pattern:</b> 고 싶다 + 지만; 못 + 가요",T06_connectors production
+Read: 커피는 좋아하지만 차는 안 좋아해요.,"<b>커피는 좋아하지만 차는 안 좋아해요.</b><br><b>English:</b> I like coffee, but I don&#x27;t like tea.<br><b>Sorani:</b> حەزم بە قاوەیە، بەڵام حەزم بە چا نییە.<br><b>Pattern:</b> 는 contrasts coffee and tea",T06_connectors comprehension
+Connector: because / so,<b>-아/어서</b><br><b>English:</b> because / so<br><b>Sorani:</b> چونکە / بۆیە<br><b>Pattern:</b> use 아/어 form + 서,T06_connectors pattern
+"Build: I'm tired, so I sleep.","<b>피곤해서 자요.</b><br><b>English:</b> I&#x27;m tired, so I sleep.<br><b>Sorani:</b> ماندووم، بۆیە دەخەوم.<br><b>Pattern:</b> 피곤하다 → 피곤해서",T06_connectors production
+"Build: It's expensive, so I don't buy it.","<b>비싸서 안 사요.</b><br><b>English:</b> It&#x27;s expensive, so I don&#x27;t buy it.<br><b>Sorani:</b> گرانە، بۆیە ناکڕم.<br><b>Pattern:</b> 비싸다 → 비싸서; 안 사요",T06_connectors production
+"Build: I like music, so I listen often.","<b>음악을 좋아해서 자주 들어요.</b><br><b>English:</b> I like music, so I listen often.<br><b>Sorani:</b> حەزم بە مۆسیقایە، بۆیە زۆرجار گوێی لێ دەگرم.<br><b>Pattern:</b> 좋아하다 → 좋아해서; 자주=often",T06_connectors production
+Connector: if / when,<b>-(으)면</b><br><b>English:</b> if / when<br><b>Sorani:</b> ئەگەر / کاتێک<br><b>Pattern:</b> consonant → 으면; vowel/ㄹ → 면,T06_connectors pattern
+"Build: If it rains, I don't go.","<b>비가 오면 안 가요.</b><br><b>English:</b> If it rains, I don&#x27;t go.<br><b>Sorani:</b> ئەگەر باران ببارێت، ناچم.<br><b>Pattern:</b> 오다 → 오면; 비가=subject",T06_connectors production
+"Build: If you have time, let's meet.","<b>시간이 있으면 만나요.</b><br><b>English:</b> If you have time, let&#x27;s meet.<br><b>Sorani:</b> ئەگەر کاتت هەیە، یەکتر ببینین.<br><b>Pattern:</b> 있다 → 있으면",T06_connectors production
+"Build: If it's expensive, I can't buy it.","<b>비싸면 못 사요.</b><br><b>English:</b> If it&#x27;s expensive, I can&#x27;t buy it.<br><b>Sorani:</b> ئەگەر گران بێت، ناتوانم بیکڕم.<br><b>Pattern:</b> 비싸다 → 비싸면",T06_connectors production
+Connector: background / contrast / setup,"<b>-는데 / -은데 / -ㄴ데</b><br><b>English:</b> background, &#x27;but/and/you see…&#x27;<br><b>Sorani:</b> پاشبنەما / بەڵام / بۆ ئامادەکردنی زانیاری<br><b>Pattern:</b> very common conversational connector",T06_connectors pattern
+Read: 지금 바쁜데 나중에 만나요.,"<b>지금 바쁜데 나중에 만나요.</b><br><b>English:</b> I&#x27;m busy now, so/how about we meet later.<br><b>Sorani:</b> ئێستا سەرقاڵم، دواتر یەکتر ببینین.<br><b>Pattern:</b> 바쁘다 → 바쁜데 gives background",T06_connectors comprehension
+Read: 이거 좋은데 좀 비싸요.,"<b>이거 좋은데 좀 비싸요.</b><br><b>English:</b> This is good, but it&#x27;s a little expensive.<br><b>Sorani:</b> ئەمە باشە، بەڵام کەمێک گرانە.<br><b>Pattern:</b> 좋다 → 좋은데; 좀=a little/softener",T06_connectors comprehension
+"Build: I want to go, but I have to study.","<b>가고 싶지만 공부해야 해요.</b><br><b>English:</b> I want to go, but I have to study.<br><b>Sorani:</b> دەمەوێت بچم، بەڵام دەبێت بخوێنم.<br><b>Pattern:</b> 고 싶지만 + 아/어야 해요",T06_connectors production
+Build: I can't go because I have to work.,<b>일해야 해서 못 가요.</b><br><b>English:</b> I can&#x27;t go because I have to work.<br><b>Sorani:</b> ناتوانم بچم چونکە دەبێت کار بکەم.<br><b>Pattern:</b> 일하다 → 일해야 하다 → 일해야 해서,T06_connectors production
+"Build: If I have money, I'll buy it.","<b>돈이 있으면 살 거예요.</b><br><b>English:</b> If I have money, I&#x27;ll buy it.<br><b>Sorani:</b> ئەگەر پارەم هەبێت، دەیکڕم.<br><b>Pattern:</b> 있으면 + 사다 → 살 거예요",T06_connectors production
+Build: I eat and then study.,<b>먹고 공부해요.</b><br><b>English:</b> I eat and then study.<br><b>Sorani:</b> دەخۆم و پاشان دەخوێنم.<br><b>Pattern:</b> -고 connects actions,T06_connectors production
+Build: I study and then sleep.,<b>공부하고 자요.</b><br><b>English:</b> I study and then sleep.<br><b>Sorani:</b> دەخوێنم و پاشان دەخەوم.<br><b>Pattern:</b> 공부하다 → 공부하고,T06_connectors production
+Build: It's cold but I go outside.,"<b>춥지만 밖에 가요.</b><br><b>English:</b> It&#x27;s cold, but I go outside.<br><b>Sorani:</b> ساردە، بەڵام دەچمە دەرەوە.<br><b>Pattern:</b> 춥다 → 춥지만 (no ㅂ change before consonant 지)",T06_connectors production
+"Why is it 춥지만, not 추우지만?",<b>춥지만</b><br><b>English:</b> because -지만 starts with a consonant<br><b>Sorani:</b> چونکە -지만 بە پیتێکی نەبزوێن دەست پێدەکات<br><b>Pattern:</b> ㅂ-irregular change is triggered by vowel-starting endings,T06_connectors pattern
+"Build: Because I'm busy, I can't meet today.","<b>바빠서 오늘은 못 만나요.</b><br><b>English:</b> Because I&#x27;m busy, I can&#x27;t meet today.<br><b>Sorani:</b> چونکە سەرقاڵم، ئەمڕۆ ناتوانم یەکتر ببینم.<br><b>Pattern:</b> 바쁘다 → 바빠서; 못 만나요",T06_connectors production
+"Build: If you don't know, ask.","<b>모르면 물어보세요.</b><br><b>English:</b> If you don&#x27;t know, ask.<br><b>Sorani:</b> ئەگەر نازانیت، بپرسە.<br><b>Pattern:</b> 모르다 → 모르면; 물어보다 → 물어보세요",T06_connectors production
+Read: 왜 안 가요? 비가 와서요.,<b>왜 안 가요? 비가 와서요.</b><br><b>English:</b> Why aren&#x27;t you going? Because it&#x27;s raining.<br><b>Sorani:</b> بۆچی ناچیت؟ چونکە باران دەبارێت.<br><b>Pattern:</b> 와서요 can give a polite reason,T06_connectors comprehension
+"Build: When I go to Seoul, I meet my friend.","<b>서울에 가면 친구를 만나요.</b><br><b>English:</b> When I go to Seoul, I meet my friend.<br><b>Sorani:</b> کاتێک دەچمە سێئول، هاوڕێکەم دەبینم.<br><b>Pattern:</b> 가다 → 가면",T06_connectors production
+"Build: I like it, but I don't need it.","<b>좋아하지만 필요하지 않아요.</b><br><b>English:</b> I like it, but I don&#x27;t need it.<br><b>Sorani:</b> حەزم لێیە، بەڵام پێویستم پێی نییە.<br><b>Pattern:</b> 좋아하지만 + 필요하지 않아요",T06_connectors production
+Formal written negation pattern: -지 않다,<b>-지 않다</b><br><b>English:</b> do not / is not<br><b>Sorani:</b> نەکردن / نەبوون<br><b>Pattern:</b> stem + 지 않다; more neutral/formal than short 안,T06_connectors pattern
+Build: I don't eat meat. Use -지 않아요.,<b>고기를 먹지 않아요.</b><br><b>English:</b> I don&#x27;t eat meat.<br><b>Sorani:</b> گۆشت ناخۆم.<br><b>Pattern:</b> 먹다 → 먹지 않아요,T06_connectors production
+안 먹어요 vs 먹지 않아요,<b>안 먹어요 / 먹지 않아요</b><br><b>English:</b> both mean &#x27;don&#x27;t eat&#x27;; first is shorter/conversational<br><b>Sorani:</b> هەردووکیان واتای ناخۆم دەدەن؛ یەکەم کورتترە<br><b>Pattern:</b> short negation vs long negation,T06_connectors comprehension
+Build: I study because I want to speak Korean.,<b>한국어로 말하고 싶어서 공부해요.</b><br><b>English:</b> I study because I want to speak Korean.<br><b>Sorani:</b> دەخوێنم چونکە دەمەوێت بە کۆری قسە بکەم.<br><b>Pattern:</b> 한국어로 = in Korean; 한국어로 = in Korean; 말하고 싶다 → 말하고 싶어서,T06_connectors production
+"Build: If I can go, I'll go.","<b>갈 수 있으면 갈 거예요.</b><br><b>English:</b> If I can go, I&#x27;ll go.<br><b>Sorani:</b> ئەگەر بتوانم بچم، دەچم.<br><b>Pattern:</b> 갈 수 있다 → 갈 수 있으면",T06_connectors production
+Build: I want coffee and water.,<b>커피하고 물을 원해요.</b><br><b>English:</b> I want coffee and water.<br><b>Sorani:</b> قاوە و ئاوم دەوێت.<br><b>Pattern:</b> 하고 can connect nouns; 원하다=want a noun,T06_connectors production
+Verb-want vs noun-want,<b>-고 싶어요 / 원해요</b><br><b>English:</b> want to DO / want a THING<br><b>Sorani:</b> دەمەوێت کارێک بکەم / شتێکم دەوێت<br><b>Pattern:</b> 가고 싶어요 vs 물을 원해요,T06_connectors pattern
+"Build: I want to eat, but there is no food.","<b>먹고 싶지만 음식이 없어요.</b><br><b>English:</b> I want to eat, but there is no food.<br><b>Sorani:</b> دەمەوێت بخۆم، بەڵام خواردن نییە.<br><b>Pattern:</b> 고 싶지만 + 없다",T06_connectors production
+Read: 시간이 없어서 지금 가야 해요.,"<b>시간이 없어서 지금 가야 해요.</b><br><b>English:</b> I have no time, so I have to go now.<br><b>Sorani:</b> کاتم نییە، بۆیە ئێستا دەبێت بچم.<br><b>Pattern:</b> 없다 → 없어서; 가야 해요",T06_connectors comprehension
+Present action before a noun: 먹다 + 사람,<b>먹는 사람</b><br><b>English:</b> a person who eats / is eating<br><b>Sorani:</b> کەسێک کە دەخوات<br><b>Pattern:</b> verb present modifier: stem + 는,T07_noun_mod pattern
+Past action before a noun: 먹다 + 음식,<b>먹은 음식</b><br><b>English:</b> food that was eaten / food [someone] ate<br><b>Sorani:</b> خواردنێک کە خواردرا/خوارد<br><b>Pattern:</b> verb past modifier: -(으)ㄴ,T07_noun_mod pattern
+Future/intended action before a noun: 먹다 + 음식,<b>먹을 음식</b><br><b>English:</b> food to eat / food that will be eaten<br><b>Sorani:</b> خواردنێک بۆ خواردن<br><b>Pattern:</b> verb future modifier: -(으)ㄹ,T07_noun_mod pattern
+Build: the person who studies Korean,<b>한국어를 공부하는 사람</b><br><b>English:</b> the person who studies Korean<br><b>Sorani:</b> کەسەکەی کۆری دەخوێنێت<br><b>Pattern:</b> 공부하다 → 공부하는 + 사람,T07_noun_mod production
+Build: the book I read,<b>제가 읽은 책</b><br><b>English:</b> the book that I read<br><b>Sorani:</b> ئەو کتێبەی کە خوێندمەوە<br><b>Pattern:</b> 읽다 → 읽은; 제가=I as subject inside modifier clause,T07_noun_mod production
+Build: the food I made,<b>제가 만든 음식</b><br><b>English:</b> the food that I made<br><b>Sorani:</b> ئەو خواردنەی کە دروستم کرد<br><b>Pattern:</b> 만들다 → 만든,T07_noun_mod production
+Build: the movie I will watch,<b>제가 볼 영화</b><br><b>English:</b> the movie that I will watch<br><b>Sorani:</b> ئەو فیلمەی کە سەیری دەکەم<br><b>Pattern:</b> 보다 → 볼,T07_noun_mod production
+Read: 한국어를 말하는 사람,<b>한국어를 말하는 사람</b><br><b>English:</b> a person who speaks Korean<br><b>Sorani:</b> کەسێک کە بە کۆری قسە دەکات<br><b>Pattern:</b> 말하다 → 말하는,T07_noun_mod comprehension
+Read: 어제 만난 사람,<b>어제 만난 사람</b><br><b>English:</b> the person I met yesterday<br><b>Sorani:</b> ئەو کەسەی دوێنێ بینیم<br><b>Pattern:</b> 만나다 → 만난,T07_noun_mod comprehension
+Read: 내일 갈 곳,<b>내일 갈 곳</b><br><b>English:</b> the place I will go tomorrow<br><b>Sorani:</b> ئەو شوێنەی سبەی دەچمە<br><b>Pattern:</b> 가다 → 갈; 곳=place,T07_noun_mod comprehension
+Adjective before noun: 좋다 + 책,<b>좋은 책</b><br><b>English:</b> a good book<br><b>Sorani:</b> کتێبێکی باش<br><b>Pattern:</b> descriptive verb modifier: vowel/ㅎ patterns; 좋다 → 좋은,T07_noun_mod pattern
+Adjective before noun: 비싸다 + 책,<b>비싼 책</b><br><b>English:</b> an expensive book<br><b>Sorani:</b> کتێبێکی گران<br><b>Pattern:</b> 비싸다 → 비싼,T07_noun_mod pattern
+Adjective before noun: 크다 + 집,<b>큰 집</b><br><b>English:</b> a big house<br><b>Sorani:</b> ماڵێکی گەورە<br><b>Pattern:</b> 크다 → 큰,T07_noun_mod pattern
+Build: a good Korean restaurant,<b>좋은 한식당</b><br><b>English:</b> a good Korean restaurant<br><b>Sorani:</b> چێشتخانەیەکی باشی کۆری<br><b>Pattern:</b> 좋다 → 좋은 before noun,T07_noun_mod production
+Build: an expensive apple,<b>비싼 사과</b><br><b>English:</b> an expensive apple<br><b>Sorani:</b> سێوێکی گران<br><b>Pattern:</b> 비싸다 → 비싼,T07_noun_mod production
+Build: the music I listened to yesterday,<b>어제 들은 음악</b><br><b>English:</b> the music I listened to yesterday<br><b>Sorani:</b> ئەو مۆسیقایەی دوێنێ گوێم لێ گرت<br><b>Pattern:</b> 듣다 → 들은 (ㄷ-irregular),T07_noun_mod production
+Build: the place where I live,<b>제가 사는 곳</b><br><b>English:</b> the place where I live<br><b>Sorani:</b> ئەو شوێنەی تێیدا دەژیم<br><b>Pattern:</b> 살다 → 사는 before 는 (ㄹ drops),T07_noun_mod production
+"Why 사는, not 살는?",<b>살다 → 사는</b><br><b>English:</b> ㄹ drops before -는<br><b>Sorani:</b> ㄹ لەبەردەم -는 لادەچێت<br><b>Pattern:</b> common ㄹ-stem rule,T07_noun_mod pattern
+Build: the person I like,<b>제가 좋아하는 사람</b><br><b>English:</b> the person I like<br><b>Sorani:</b> ئەو کەسەی حەزم لێیە<br><b>Pattern:</b> 좋아하다 → 좋아하는,T07_noun_mod production
+Build: the coffee I want to drink,<b>제가 마시고 싶은 커피</b><br><b>English:</b> the coffee I want to drink<br><b>Sorani:</b> ئەو قاوەیەی دەمەوێت بیخۆمەوە<br><b>Pattern:</b> 마시고 싶다 → 마시고 싶은 before noun,T07_noun_mod production
+Read: 먹고 싶은 음식,<b>먹고 싶은 음식</b><br><b>English:</b> food I want to eat<br><b>Sorani:</b> خواردنێک کە دەمەوێت بیخۆم<br><b>Pattern:</b> 싶다 → 싶은 before noun,T07_noun_mod comprehension
+Build: a book I can read,<b>읽을 수 있는 책</b><br><b>English:</b> a book I can read<br><b>Sorani:</b> کتێبێک کە دەتوانم بیخوێنمەوە<br><b>Pattern:</b> 읽을 수 있다 → 읽을 수 있는,T07_noun_mod production
+Read: 시간이 없는 사람,<b>시간이 없는 사람</b><br><b>English:</b> a person who has no time<br><b>Sorani:</b> کەسێک کە کاتی نییە<br><b>Pattern:</b> 없다 → 없는 before noun,T07_noun_mod comprehension
+Build: a person who has time,<b>시간이 있는 사람</b><br><b>English:</b> a person who has time<br><b>Sorani:</b> کەسێک کە کاتی هەیە<br><b>Pattern:</b> 있다 → 있는,T07_noun_mod production
+Build: the food we will eat tomorrow,<b>내일 먹을 음식</b><br><b>English:</b> the food we will eat tomorrow<br><b>Sorani:</b> ئەو خواردنەی سبەی دەیخۆین<br><b>Pattern:</b> 먹다 → 먹을,T07_noun_mod production
+Build: the house I will live in,<b>제가 살 집</b><br><b>English:</b> the house I will live in<br><b>Sorani:</b> ئەو ماڵەی کە تێیدا دەژیم<br><b>Pattern:</b> 살다 → 살- → 살 집; future/intended modifier -(으)ㄹ<br>,T07_noun_mod production
+Core word order for relative clauses,<b>[description/action] + noun</b><br><b>English:</b> Korean puts the modifying clause before the noun<br><b>Sorani:</b> لە کۆری وەسف/کردار پێش ناو دێت<br><b>Pattern:</b> 제가 만든 + 음식,T07_noun_mod pattern
+Build: the person who can't go,<b>못 가는 사람</b><br><b>English:</b> the person who can&#x27;t go<br><b>Sorani:</b> کەسێک کە ناتوانێت بچێت<br><b>Pattern:</b> 못 가다 → 못 가는,T07_noun_mod production
+Build: the book that is not expensive,<b>안 비싼 책</b><br><b>English:</b> a book that isn&#x27;t expensive<br><b>Sorani:</b> کتێبێک کە گران نییە<br><b>Pattern:</b> 안 비싸다 → 안 비싼,T07_noun_mod production
+Read: 제가 어제 만든 음식이 맛있어요.,<b>제가 어제 만든 음식이 맛있어요.</b><br><b>English:</b> The food I made yesterday is delicious.<br><b>Sorani:</b> ئەو خواردنەی دوێنێ دروستم کرد خۆشە.<br><b>Pattern:</b> 제가 어제 만든 modifies 음식; 음식이 is main-clause subject,T07_noun_mod comprehension
+Particle: also / too,<b>도</b><br><b>English:</b> also / too<br><b>Sorani:</b> هەروەها / ـیش<br><b>Pattern:</b> noun + 도,T08_particles pattern
+Build: I also like coffee.,<b>저도 커피를 좋아해요.</b><br><b>English:</b> I also like coffee.<br><b>Sorani:</b> منیش حەزم بە قاوەیە.<br><b>Pattern:</b> 저 + 도 = me too,T08_particles production
+Particle: only,<b>만</b><br><b>English:</b> only<br><b>Sorani:</b> تەنها<br><b>Pattern:</b> noun + 만,T08_particles pattern
+Build: I only drink water.,<b>물만 마셔요.</b><br><b>English:</b> I only drink water.<br><b>Sorani:</b> تەنها ئاو دەخۆمەوە.<br><b>Pattern:</b> 물 + 만,T08_particles production
+Particle: from (time/place starting point),<b>부터</b><br><b>English:</b> from / starting from<br><b>Sorani:</b> لە…وە<br><b>Pattern:</b> often paired with 까지,T08_particles pattern
+Particle: until / up to,<b>까지</b><br><b>English:</b> until / up to<br><b>Sorani:</b> تا / هەتا<br><b>Pattern:</b> often paired with 부터,T08_particles pattern
+Build: I work from 9 to 5.,<b>아홉 시부터 다섯 시까지 일해요.</b><br><b>English:</b> I work from 9 to 5.<br><b>Sorani:</b> لە ٩ تا ٥ کار دەکەم.<br><b>Pattern:</b> 부터=start; 까지=end,T08_particles production
+Particle: by / with / toward / in a language,"<b>(으)로</b><br><b>English:</b> by, with, toward, in<br><b>Sorani:</b> بە / بەرەو<br><b>Pattern:</b> consonant → 으로; vowel or ㄹ → 로",T08_particles pattern
+Build: I speak in Korean.,<b>한국어로 말해요.</b><br><b>English:</b> I speak in Korean.<br><b>Sorani:</b> بە کۆری قسە دەکەم.<br><b>Pattern:</b> language + 로,T08_particles production
+Build: I go by bus.,<b>버스로 가요.</b><br><b>English:</b> I go by bus.<br><b>Sorani:</b> بە پاس دەچم.<br><b>Pattern:</b> means/method + 로,T08_particles production
+Everyday noun connector: and / with,<b>하고</b><br><b>English:</b> and / with<br><b>Sorani:</b> و / لەگەڵ<br><b>Pattern:</b> noun + 하고 + noun,T08_particles pattern
+Build: coffee and water,<b>커피하고 물</b><br><b>English:</b> coffee and water<br><b>Sorani:</b> قاوە و ئاو<br><b>Pattern:</b> 하고 connects nouns,T08_particles production
+Formal/written noun connector: and / with,<b>와/과</b><br><b>English:</b> and / with<br><b>Sorani:</b> و / لەگەڵ<br><b>Pattern:</b> vowel → 와; consonant → 과,T08_particles pattern
+Build: with a friend,<b>친구와 같이</b><br><b>English:</b> together with a friend<br><b>Sorani:</b> لەگەڵ هاوڕێیەک<br><b>Pattern:</b> 친구 ends vowel → 와; 같이=together,T08_particles production
+Conversational noun connector: with / and,<b>(이)랑</b><br><b>English:</b> with / and<br><b>Sorani:</b> لەگەڵ / و<br><b>Pattern:</b> consonant → 이랑; vowel → 랑,T08_particles pattern
+Build: I eat with a friend.,<b>친구랑 같이 먹어요.</b><br><b>English:</b> I eat with a friend.<br><b>Sorani:</b> لەگەڵ هاوڕێکەم دەخۆم.<br><b>Pattern:</b> 친구랑 + 같이,T08_particles production
+Particle: to a person,<b>에게 / 한테</b><br><b>English:</b> to someone<br><b>Sorani:</b> بۆ کەسێک<br><b>Pattern:</b> 한테 is more conversational,T08_particles pattern
+Build: I give a book to my friend.,<b>친구한테 책을 줘요.</b><br><b>English:</b> I give a book to my friend.<br><b>Sorani:</b> کتێبێک بە هاوڕێکەم دەدەم.<br><b>Pattern:</b> friend + 한테; 책을 object; 주다 → 줘요,T08_particles production
+Particle: from a person,<b>에게서 / 한테서</b><br><b>English:</b> from someone<br><b>Sorani:</b> لە کەسێکەوە<br><b>Pattern:</b> 한테서 is conversational,T08_particles pattern
+Build: I received it from a friend.,<b>친구한테서 받았어요.</b><br><b>English:</b> I received it from a friend.<br><b>Sorani:</b> لە هاوڕێکەمەوە وەرمگرت.<br><b>Pattern:</b> 받다 → 받았어요,T08_particles production
+Possession particle,<b>의</b><br><b>English:</b> of / &#x27;s<br><b>Sorani:</b> هی / ـی<br><b>Pattern:</b> often pronounced 에 in natural speech,T08_particles pattern
+Build: my friend's book,<b>친구의 책</b><br><b>English:</b> my friend&#x27;s book / a friend&#x27;s book<br><b>Sorani:</b> کتێبی هاوڕێکەم<br><b>Pattern:</b> A의 B = B of A,T08_particles production
+Comparison particle,<b>보다</b><br><b>English:</b> than<br><b>Sorani:</b> لە…تر<br><b>Pattern:</b> A보다 B = B compared with A,T08_particles pattern
+Build: Coffee is more expensive than water.,<b>커피가 물보다 더 비싸요.</b><br><b>English:</b> Coffee is more expensive than water.<br><b>Sorani:</b> قاوە لە ئاو گرانترە.<br><b>Pattern:</b> 물보다=than water; 더=more,T08_particles production
+Particle: every / each,<b>마다</b><br><b>English:</b> every / each<br><b>Sorani:</b> هەر<br><b>Pattern:</b> noun + 마다,T08_particles pattern
+Build: I study every day.,<b>날마다 공부해요.</b><br><b>English:</b> I study every day.<br><b>Sorani:</b> هەموو ڕۆژێک دەخوێنم.<br><b>Pattern:</b> 날마다=every day,T08_particles production
+Only X + negative: 밖에,<b>밖에 + negative</b><br><b>English:</b> nothing but / only<br><b>Sorani:</b> جگە لە… هیچی تر<br><b>Pattern:</b> 물밖에 없어요 = there is only water,T08_particles pattern
+Build: I only have water.,<b>물밖에 없어요.</b><br><b>English:</b> I only have water.<br><b>Sorani:</b> تەنها ئاوم هەیە.<br><b>Pattern:</b> 밖에 requires a negative predicate such as 없다,T08_particles production
+Without,<b>없이</b><br><b>English:</b> without<br><b>Sorani:</b> بێ / بەبێ<br><b>Pattern:</b> N 없이 = without N,T08_particles pattern
+Build: I drink coffee without sugar.,<b>설탕 없이 커피를 마셔요.</b><br><b>English:</b> I drink coffee without sugar.<br><b>Sorani:</b> قاوە بەبێ شەکر دەخۆمەوە.<br><b>Pattern:</b> 설탕 없이 = without sugar,T08_particles production
+Everyday polite 'to be' after consonant noun,<b>이에요</b><br><b>English:</b> is/am/are<br><b>Sorani:</b> ـە / بوون<br><b>Pattern:</b> consonant-ending noun → 이에요,T09_politeness pattern
+Everyday polite 'to be' after vowel noun,<b>예요</b><br><b>English:</b> is/am/are<br><b>Sorani:</b> ـە / بوون<br><b>Pattern:</b> vowel-ending noun → 예요,T09_politeness pattern
+Build: It's a book.,<b>책이에요.</b><br><b>English:</b> It&#x27;s a book.<br><b>Sorani:</b> کتێبە.<br><b>Pattern:</b> 책 ends consonant → 이에요,T09_politeness production
+Build: It's an apple.,<b>사과예요.</b><br><b>English:</b> It&#x27;s an apple.<br><b>Sorani:</b> سێوەیە.<br><b>Pattern:</b> 사과 ends vowel → 예요,T09_politeness production
+Formal polite 'to be' statement,<b>입니다</b><br><b>English:</b> is/am/are (formal)<br><b>Sorani:</b> ـە / بوون بە شێوەی فەرمی<br><b>Pattern:</b> noun + 입니다; no vowel/consonant split,T09_politeness pattern
+Formal polite 'to be' question,<b>입니까?</b><br><b>English:</b> is/am/are…? (formal)<br><b>Sorani:</b> ئایا…؟ بە شێوەی فەرمی<br><b>Pattern:</b> 입니다 = statement; 입니까? = question,T09_politeness pattern
+사과예요 vs 사과입니다,"<b>사과예요 / 사과입니다</b><br><b>English:</b> It&#x27;s an apple: everyday polite / formal polite<br><b>Sorani:</b> سێوەیە: ڕۆژانەی ڕێزدار / فەرمی<br><b>Pattern:</b> same core meaning, different speech level",T09_politeness comprehension
+사과입니다 vs 사과입니까?,<b>statement / question</b><br><b>English:</b> It is an apple. / Is it an apple?<br><b>Sorani:</b> سێوەیە. / سێوەیە؟<br><b>Pattern:</b> 니다 statement; 니까? question,T09_politeness comprehension
+Formal verb statement endings,<b>-ㅂ니다 / -습니다</b><br><b>English:</b> formal polite statement<br><b>Sorani:</b> کۆتایی فەرمی ڕێزدار<br><b>Pattern:</b> vowel stem → ㅂ니다; consonant stem → 습니다,T09_politeness pattern
+Formal verb question endings,<b>-ㅂ니까? / -습니까?</b><br><b>English:</b> formal polite question<br><b>Sorani:</b> پرسیاری فەرمی ڕێزدار<br><b>Pattern:</b> vowel stem → ㅂ니까?; consonant stem → 습니까?,T09_politeness pattern
+가다 → formal statement / question,<b>갑니다 / 갑니까?</b><br><b>English:</b> go / do you go? (formal)<br><b>Sorani:</b> دەچم / ئایا دەچیت؟ بە فەرمی<br><b>Pattern:</b> 가- + ㅂ니다 / ㅂ니까?,T09_politeness pattern
+먹다 → formal statement / question,<b>먹습니다 / 먹습니까?</b><br><b>English:</b> eat / do you eat? (formal)<br><b>Sorani:</b> دەخۆم / ئایا دەخۆیت؟ بە فەرمی<br><b>Pattern:</b> 먹- + 습니다 / 습니까?,T09_politeness pattern
+Polite request: please do…,<b>-아/어 주세요</b><br><b>English:</b> please do… for me/us<br><b>Sorani:</b> تکایە… بکە<br><b>Pattern:</b> verb 아/어 form + 주세요,T09_politeness pattern
+Build: Please turn on the light.,<b>불 좀 켜 주세요.</b><br><b>English:</b> Please turn on the light.<br><b>Sorani:</b> تکایە چراغەکە هەڵبکە.<br><b>Pattern:</b> 켜다 → 켜 주세요; 좀 softens request,T09_politeness production
+More deferential request: Could you please…?,<b>-아/어 주시겠어요?</b><br><b>English:</b> Could you please…?<br><b>Sorani:</b> تکایە دەتوانیت…؟<br><b>Pattern:</b> 주다 + honorific 시 + 겠어요?,T09_politeness pattern
+Read: 불 좀 켜주시겠어요?,<b>불 좀 켜주시겠어요?</b><br><b>English:</b> Could you please turn on the light?<br><b>Sorani:</b> تکایە دەتوانیت چراغەکە هەڵبکەیت؟<br><b>Pattern:</b> 불(을) object omitted; 좀 softener,T09_politeness comprehension
+What does 좀 often do in requests?,"<b>좀</b><br><b>English:</b> literally &#x27;a little&#x27;; often softens a request<br><b>Sorani:</b> بە مانای کەمێک؛ زۆرجار داواکاری نەرم دەکات<br><b>Pattern:</b> 물 좀 주세요 = some water, please",T09_politeness pattern
+Honorific marker inside a predicate,<b>-(으)시-</b><br><b>English:</b> honorific marker for the subject<br><b>Sorani:</b> نیشانەی ڕێز بۆ بکەر<br><b>Pattern:</b> 가다 → 가시다; 먹다 → 드시다 is also a special honorific verb,T09_politeness pattern
+Polite command/request ending,<b>-(으)세요</b><br><b>English:</b> please do / honorific present<br><b>Sorani:</b> تکایە… / شێوەی ڕێزدار<br><b>Pattern:</b> consonant → 으세요; vowel → 세요,T09_politeness pattern
+Build: Please sit.,<b>앉으세요.</b><br><b>English:</b> Please sit.<br><b>Sorani:</b> تکایە دانیشە.<br><b>Pattern:</b> 앉다 → 앉으세요,T09_politeness production
+무엇입니까? vs 뭐예요?,<b>formal &#x27;What is it?&#x27; / everyday polite &#x27;What is it?&#x27;</b><br><b>English:</b> What is it?<br><b>Sorani:</b> چییە؟<br><b>Pattern:</b> 무엇 full/formal; 뭐 common contraction,T09_politeness comprehension
+What does 뭐죠? often feel like?,"<b>뭐죠?</b><br><b>English:</b> What is it? / What was it again? / right, what is it?<br><b>Sorani:</b> چییە؟ / چی بووەوە؟<br><b>Pattern:</b> 죠 ← 지요; often confirmation/shared-information nuance",T09_politeness pattern
+의자입니다 vs 의자죠,"<b>plain formal information / confirmation-shared nuance</b><br><b>English:</b> It is a chair. / It&#x27;s a chair, right/you know.<br><b>Sorani:</b> کورسییە. / کورسییە، وایە؟<br><b>Pattern:</b> 죠 is not simply another formality level",T09_politeness comprehension
+Essential polite response: yes / no,<b>네 / 아니요</b><br><b>English:</b> yes / no<br><b>Sorani:</b> بەڵێ / نەخێر<br><b>Pattern:</b> basic polite responses,T09_politeness pattern
+Essential polite expressions,<b>감사합니다 / 죄송합니다</b><br><b>English:</b> Thank you. / I&#x27;m sorry.<br><b>Sorani:</b> سوپاس. / ببورە.<br><b>Pattern:</b> formal-polite fixed expressions,T09_politeness pattern
+Native Korean 1–5,"<b>하나, 둘, 셋, 넷, 다섯</b><br><b>English:</b> one, two, three, four, five<br><b>Sorani:</b> یەک، دوو، سێ، چوار، پێنج<br><b>Pattern:</b> used with many counters and hours",T10_numbers pattern
+Native Korean 6–10,"<b>여섯, 일곱, 여덟, 아홉, 열</b><br><b>English:</b> six, seven, eight, nine, ten<br><b>Sorani:</b> شەش، حەوت، هەشت، نۆ، دە<br><b>Pattern:</b> used with many counters and hours",T10_numbers pattern
+Before counters: 하나 changes to…,<b>한</b><br><b>English:</b> one (counter form)<br><b>Sorani:</b> یەک<br><b>Pattern:</b> 하나 → 한 명 / 한 개 / 한 살,T10_numbers pattern
+Before counters: 둘 changes to…,<b>두</b><br><b>English:</b> two (counter form)<br><b>Sorani:</b> دوو<br><b>Pattern:</b> 둘 → 두 명 / 두 개,T10_numbers pattern
+Before counters: 셋 changes to…,<b>세</b><br><b>English:</b> three (counter form)<br><b>Sorani:</b> سێ<br><b>Pattern:</b> 셋 → 세 명 / 세 개,T10_numbers pattern
+Before counters: 넷 changes to…,<b>네</b><br><b>English:</b> four (counter form)<br><b>Sorani:</b> چوار<br><b>Pattern:</b> 넷 → 네 명 / 네 개,T10_numbers pattern
+Counter for people,"<b>명</b><br><b>English:</b> people counter<br><b>Sorani:</b> ژمێرەری کەس<br><b>Pattern:</b> 한 명, 두 명, 세 명",T10_numbers pattern
+Build: three people,<b>세 명</b><br><b>English:</b> three people<br><b>Sorani:</b> سێ کەس<br><b>Pattern:</b> 셋 → 세 + 명,T10_numbers production
+Counter for general things,"<b>개</b><br><b>English:</b> general item counter<br><b>Sorani:</b> ژمێرەری شتی گشتی<br><b>Pattern:</b> 한 개, 두 개, 세 개",T10_numbers pattern
+Build: two things,<b>두 개</b><br><b>English:</b> two things<br><b>Sorani:</b> دوو شت<br><b>Pattern:</b> 둘 → 두 + 개,T10_numbers production
+Age counter,<b>살</b><br><b>English:</b> years old<br><b>Sorani:</b> ساڵ تەمەن<br><b>Pattern:</b> 열 살 = ten years old,T10_numbers pattern
+Build: I am ten years old.,<b>열 살이에요.</b><br><b>English:</b> I am ten years old.<br><b>Sorani:</b> تەمەنم دە ساڵە.<br><b>Pattern:</b> 열 + 살 + 이에요,T10_numbers production
+살 vs 살다,<b>살 = years old; 살다 = to live</b><br><b>English:</b> age counter / live<br><b>Sorani:</b> ساڵ تەمەن / ژیان<br><b>Pattern:</b> 열 살이에요 vs 서울에 살아요,T10_numbers comprehension
+Counter for clock hours,"<b>시</b><br><b>English:</b> o&#x27;clock / hour on the clock<br><b>Sorani:</b> کاتژمێر<br><b>Pattern:</b> native Korean numbers: 한 시, 두 시…",T10_numbers pattern
+Build: four o'clock,<b>네 시</b><br><b>English:</b> four o&#x27;clock<br><b>Sorani:</b> کاتژمێر چوار<br><b>Pattern:</b> 넷 → 네 + 시,T10_numbers production
+Build: We meet at three.,<b>세 시에 만나요.</b><br><b>English:</b> We meet at three.<br><b>Sorani:</b> کاتژمێر سێ یەکتر دەبینین.<br><b>Pattern:</b> 세 시 + 에 time marker,T10_numbers production
+Sino-Korean 1–5,"<b>일, 이, 삼, 사, 오</b><br><b>English:</b> one, two, three, four, five<br><b>Sorani:</b> یەک، دوو، سێ، چوار، پێنج<br><b>Pattern:</b> common for money, dates, minutes, years",T10_numbers pattern
+Sino-Korean 6–10,"<b>육, 칠, 팔, 구, 십</b><br><b>English:</b> six, seven, eight, nine, ten<br><b>Sorani:</b> شەش، حەوت، هەشت، نۆ، دە<br><b>Pattern:</b> common for money, dates, minutes, years",T10_numbers pattern
+Sino-Korean: 20 / 30 / 100,<b>이십 / 삼십 / 백</b><br><b>English:</b> twenty / thirty / one hundred<br><b>Sorani:</b> بیست / سی / سەد<br><b>Pattern:</b> tens are multiplicative: 이+십=20,T10_numbers pattern
+Counter/unit for minutes,<b>분</b><br><b>English:</b> minutes<br><b>Sorani:</b> خولەک<br><b>Pattern:</b> Sino-Korean numbers: 십 분 = 10 minutes,T10_numbers pattern
+Build: 15 minutes,<b>십오 분</b><br><b>English:</b> 15 minutes<br><b>Sorani:</b> پازدە خولەک<br><b>Pattern:</b> 십 + 오 + 분,T10_numbers production
+Money unit,<b>원</b><br><b>English:</b> won<br><b>Sorani:</b> وۆن<br><b>Pattern:</b> Sino-Korean numbers,T10_numbers pattern
+"Build: 5,000 won","<b>오천 원</b><br><b>English:</b> 5,000 won<br><b>Sorani:</b> پێنج هەزار وۆن<br><b>Pattern:</b> 오=5; 천=1000",T10_numbers production
+Price question: Ask 'How much is this?',<b>이거 얼마예요?</b><br><b>English:</b> How much is this?<br><b>Sorani:</b> ئەمە چەندە؟<br><b>Pattern:</b> 얼마 asks price/amount,T10_numbers production
+Year unit,<b>년</b><br><b>English:</b> year<br><b>Sorani:</b> ساڵ<br><b>Pattern:</b> Sino-Korean numbers for calendar years,T10_numbers pattern
+Month unit in dates,"<b>월</b><br><b>English:</b> month<br><b>Sorani:</b> مانگ<br><b>Pattern:</b> 일월=January, 이월=February…",T10_numbers pattern
+Day-of-month unit,<b>일</b><br><b>English:</b> day/date<br><b>Sorani:</b> ڕۆژ/ڕێکەوت<br><b>Pattern:</b> 삼 일 = the 3rd day; context distinguishes from number 1,T10_numbers pattern
+Build: September,<b>구월</b><br><b>English:</b> September<br><b>Sorani:</b> مانگی نۆ / ئەیلوول<br><b>Pattern:</b> 구=9 + 월=month,T10_numbers production
+Build: September 30,<b>구월 삼십 일</b><br><b>English:</b> September 30<br><b>Sorani:</b> ٣٠ی ئەیلوول<br><b>Pattern:</b> 구월 + 삼십 일,T10_numbers production
+Ask: What time is it?,<b>몇 시예요?</b><br><b>English:</b> What time is it?<br><b>Sorani:</b> کاتژمێر چەندە؟<br><b>Pattern:</b> 몇=how many/what number; 시=hour,T10_numbers production
+Ask: How many people?,<b>몇 명이에요?</b><br><b>English:</b> How many people?<br><b>Sorani:</b> چەند کەسن؟<br><b>Pattern:</b> 몇 + counter,T10_numbers production
+Ask: How many?,<b>몇 개예요?</b><br><b>English:</b> How many things?<br><b>Sorani:</b> چەند دانەیە؟<br><b>Pattern:</b> 몇 + 개,T10_numbers production
+Build: one person,<b>한 명</b><br><b>English:</b> one person<br><b>Sorani:</b> یەک کەس<br><b>Pattern:</b> 하나 → 한,T10_numbers production
+Build: four things,<b>네 개</b><br><b>English:</b> four things<br><b>Sorani:</b> چوار دانە<br><b>Pattern:</b> 넷 → 네,T10_numbers production
+Build: three years old,<b>세 살</b><br><b>English:</b> three years old<br><b>Sorani:</b> سێ ساڵ تەمەن<br><b>Pattern:</b> 셋 → 세,T10_numbers production
+Build: two o'clock,<b>두 시</b><br><b>English:</b> two o&#x27;clock<br><b>Sorani:</b> کاتژمێر دوو<br><b>Pattern:</b> 둘 → 두,T10_numbers production
+Build: 30 minutes,<b>삼십 분</b><br><b>English:</b> 30 minutes<br><b>Sorani:</b> سی خولەک<br><b>Pattern:</b> 삼십 + 분,T10_numbers production
+"Build: 10,000 won","<b>만 원</b><br><b>English:</b> 10,000 won<br><b>Sorani:</b> دە هەزار وۆن<br><b>Pattern:</b> 만=10,000",T10_numbers production
+Which system for clock hours vs minutes?,<b>hours: Native Korean; minutes: Sino-Korean</b><br><b>English:</b> 한 시 십오 분 = 1:15<br><b>Sorani:</b> کاتژمێر بە ژمارەی کۆری ڕەسەن؛ خولەک بە ژمارەی چینی-کۆری<br><b>Pattern:</b> 시 uses native; 분 uses Sino-Korean,T10_numbers pattern
+Read: 토요일 세 시에 만나요.,<b>토요일 세 시에 만나요.</b><br><b>English:</b> Let&#x27;s meet Saturday at three.<br><b>Sorani:</b> شەممە کاتژمێر سێ یەکتر دەبینین.<br><b>Pattern:</b> time expressions + 에,T10_numbers comprehension
+Why?,<b>왜?</b><br><b>English:</b> Why?<br><b>Sorani:</b> بۆچی؟<br><b>Pattern:</b> 왜 is an interrogative adverb,T11_core_vocab production
+Build: Why are you going to Seoul?,<b>왜 서울에 가요?</b><br><b>English:</b> Why are you going to Seoul?<br><b>Sorani:</b> بۆچی دەچیتە سێئول؟<br><b>Pattern:</b> 왜 + destination + verb,T11_core_vocab production
+What? (everyday),<b>뭐?</b><br><b>English:</b> What?<br><b>Sorani:</b> چی؟<br><b>Pattern:</b> 뭐 ← 무엇,T11_core_vocab production
+Where?,<b>어디?</b><br><b>English:</b> Where?<br><b>Sorani:</b> کوێ؟<br><b>Pattern:</b> 어디에=where to/at; 어디에서=where action happens,T11_core_vocab production
+Build: Where do you live?,<b>어디에 살아요?</b><br><b>English:</b> Where do you live?<br><b>Sorani:</b> لە کوێ دەژیت؟<br><b>Pattern:</b> residence/static location → 에,T11_core_vocab production
+Build: Where do you study?,<b>어디에서 공부해요?</b><br><b>English:</b> Where do you study?<br><b>Sorani:</b> لە کوێ دەخوێنیت؟<br><b>Pattern:</b> action location → 에서,T11_core_vocab production
+When?,<b>언제?</b><br><b>English:</b> When?<br><b>Sorani:</b> کەی؟<br><b>Pattern:</b> time question word,T11_core_vocab production
+Who?,<b>누구?</b><br><b>English:</b> Who?<br><b>Sorani:</b> کێ؟<br><b>Pattern:</b> 누가 is the subject form of 누구 in many questions,T11_core_vocab production
+Who is coming?,<b>누가 와요?</b><br><b>English:</b> Who is coming?<br><b>Sorani:</b> کێ دێت؟<br><b>Pattern:</b> 누구 + 가 → 누가,T11_core_vocab production
+How?,<b>어떻게?</b><br><b>English:</b> How?<br><b>Sorani:</b> چۆن؟<br><b>Pattern:</b> method/manner question,T11_core_vocab production
+Which / what kind of?,<b>어느 / 어떤</b><br><b>English:</b> which / what kind of<br><b>Sorani:</b> کام / چ جۆرە<br><b>Pattern:</b> 어느 often selects among options; 어떤 asks kind/type,T11_core_vocab pattern
+How many / what number?,"<b>몇</b><br><b>English:</b> how many<br><b>Sorani:</b> چەند<br><b>Pattern:</b> 몇 + counter: 몇 명, 몇 개, 몇 시",T11_core_vocab pattern
+Now,<b>지금</b><br><b>English:</b> now<br><b>Sorani:</b> ئێستا<br><b>Pattern:</b> 지금 가요 = I&#x27;m going now,T11_core_vocab production
+Today / yesterday / tomorrow,<b>오늘 / 어제 / 내일</b><br><b>English:</b> today / yesterday / tomorrow<br><b>Sorani:</b> ئەمڕۆ / دوێنێ / سبەی<br><b>Pattern:</b> high-frequency time words,T11_core_vocab pattern
+Later,<b>나중에</b><br><b>English:</b> later<br><b>Sorani:</b> دواتر<br><b>Pattern:</b> 나중에 만나요 = see you later,T11_core_vocab production
+Still / yet,<b>아직</b><br><b>English:</b> still / yet<br><b>Sorani:</b> هێشتا<br><b>Pattern:</b> 아직 안… = not yet,T11_core_vocab pattern
+Build: I haven't eaten yet.,<b>아직 안 먹었어요.</b><br><b>English:</b> I haven&#x27;t eaten yet.<br><b>Sorani:</b> هێشتا نەخواردم.<br><b>Pattern:</b> 아직 + 안 + past,T11_core_vocab production
+Already,<b>벌써</b><br><b>English:</b> already<br><b>Sorani:</b> پێشتر / هەر ئێستا پێش کات<br><b>Pattern:</b> 벌써 먹었어요 = already ate,T11_core_vocab pattern
+Maybe / probably,<b>아마</b><br><b>English:</b> maybe / probably<br><b>Sorani:</b> لەوانەیە<br><b>Pattern:</b> often used with future/guessing contexts,T11_core_vocab pattern
+Really,<b>정말</b><br><b>English:</b> really<br><b>Sorani:</b> بەڕاستی<br><b>Pattern:</b> 정말 좋아요 = really good,T11_core_vocab production
+Too / very,<b>너무</b><br><b>English:</b> too / very<br><b>Sorani:</b> زۆر<br><b>Pattern:</b> in modern speech often simply intensifies,T11_core_vocab pattern
+A lot / much,<b>많이</b><br><b>English:</b> a lot<br><b>Sorani:</b> زۆر<br><b>Pattern:</b> 많이 먹어요 = eat a lot,T11_core_vocab production
+A little / a bit,<b>조금 / 좀</b><br><b>English:</b> a little / a bit<br><b>Sorani:</b> کەمێک<br><b>Pattern:</b> 좀 is common and also softens requests,T11_core_vocab pattern
+Together,<b>같이</b><br><b>English:</b> together<br><b>Sorani:</b> پێکەوە<br><b>Pattern:</b> 친구랑 같이 = together with a friend,T11_core_vocab production
+Again,<b>다시</b><br><b>English:</b> again<br><b>Sorani:</b> دووبارە<br><b>Pattern:</b> 다시 말해 주세요 = please say it again,T11_core_vocab production
+Well,<b>잘</b><br><b>English:</b> well<br><b>Sorani:</b> باش<br><b>Pattern:</b> 잘해요 = do well; 잘 못… = can&#x27;t do well,T11_core_vocab pattern
+Quickly,<b>빨리</b><br><b>English:</b> quickly<br><b>Sorani:</b> بەخێرایی<br><b>Pattern:</b> 빨리 가요 = go quickly,T11_core_vocab production
+Often,<b>자주</b><br><b>English:</b> often<br><b>Sorani:</b> زۆرجار<br><b>Pattern:</b> 자주 들어요 = listen often,T11_core_vocab production
+Here / there / over there,<b>여기 / 거기 / 저기</b><br><b>English:</b> here / there / over there<br><b>Sorani:</b> لێرە / لەوێ / لەوێی دوور<br><b>Pattern:</b> same three-way distance logic as 이/그/저,T11_core_vocab pattern
+On / under,<b>위에 / 아래에</b><br><b>English:</b> on/above / under/below<br><b>Sorani:</b> لەسەر / لەژێر<br><b>Pattern:</b> 책상 위에 = on the desk; 책상 아래에 = under the desk,T11_core_vocab pattern

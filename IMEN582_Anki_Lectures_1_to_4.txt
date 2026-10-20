@@ -1,0 +1,102 @@
+#separator:tab
+#html:true
+#tags column:3
+What is game theory in this course?	A framework for analyzing strategic interaction: each player's payoff depends on their own action and on others' actions.	IMEN582 foundations
+What are the basic elements of a game?	Players, action sets, and payoff functions for every feasible action profile.	IMEN582 foundations
+What does complete information mean?	Players know the players, available actions, and payoff functions; this information is common knowledge.	IMEN582 information
+What does rationality mean in the normal-form model?	Each player chooses actions to maximize their own payoff (or expected payoff under risk neutrality).	IMEN582 foundations
+What is an action profile?	A complete specification of one action for every player, e.g. a=(a1,...,aN).	IMEN582 foundations
+What does a_-i mean?	The actions (or strategies) of all players except player i.	IMEN582 notation
+What is a strictly dominated action?	An action that gives player i a strictly lower payoff than another action for every possible action choice of the other players.	IMEN582 dominance
+What is a weakly dominated action?	An action that is never better than another action and is strictly worse for at least one action profile of the others.	IMEN582 dominance
+Why can strictly dominated actions be eliminated?	A rational player would never choose them, and under common knowledge everyone can reason from that fact.	IMEN582 dominance
+What is iterated elimination of strictly dominated actions?	Repeatedly remove strictly dominated actions from the reduced game until no more can be removed.	IMEN582 dominance
+Does surviving iterated elimination mean an action was dominant in the original game?	No. An action may become dominant only after other actions are removed.	IMEN582 dominance
+What is a best response?	Player i's payoff-maximizing action given the other players' actions: Ri(a_-i)=argmax_ai pi_i(ai,a_-i).	IMEN582 best_response
+What is a Nash equilibrium?	A strategy profile where every player's strategy is a best response to the others; no one can profitably deviate alone.	IMEN582 NE
+How do you find a pure-strategy NE in a payoff matrix?	Mark each player's best responses. A cell is a NE if both players are best-responding there.	IMEN582 NE
+What is the difference between equilibrium in dominant actions and Nash equilibrium?	Every equilibrium in dominant actions is a NE, but a NE need not use dominant actions.	IMEN582 NE dominance
+Can a game have multiple Nash equilibria?	Yes. Nash equilibrium is a stability condition, not necessarily a unique prediction.	IMEN582 NE
+What is a pure strategy?	A strategy assigning probability 1 to one action.	IMEN582 mixed_strategy
+What is a mixed strategy?	A probability distribution over a player's pure actions.	IMEN582 mixed_strategy
+What is the support of a mixed strategy?	The set of pure actions assigned positive probability.	IMEN582 mixed_strategy
+What is the expected payoff formula for a mixed-strategy profile?	\(\pi_i(s)=\sum_{a\in A}\pi_i(a)\prod_j s_j(a_j)\). It is just 'payoff × probability' summed over all action profiles.	IMEN582 mixed_strategy math
+Why is the probability of action profile a the product of players' mixing probabilities?	Because players' independent randomizations imply P(a1,...,aN)=prod_j s_j(a_j).	IMEN582 mixed_strategy math
+When can a player mix between multiple pure actions in equilibrium?	Only when all actions in the support give the same expected payoff; otherwise probability would shift to the better action.	IMEN582 mixed_strategy
+How do you solve a 2×2 mixed-strategy NE?	Choose each player's mixing probability so that the other player is indifferent between the pure actions they mix over.	IMEN582 mixed_strategy NE
+In a payoff expression u(p)=Ap+B with 0≤p≤1, what is the best response?	If A>0 choose p=1; if A<0 choose p=0; if A=0 any p∈[0,1] is optimal.	IMEN582 mixed_strategy math
+What is Pareto dominance?	Outcome x Pareto dominates y if everyone is at least as well off at x and at least one player is strictly better off.	IMEN582 pareto
+What is Pareto efficiency?	An outcome is Pareto efficient if no other feasible outcome Pareto dominates it.	IMEN582 pareto
+Why can two outcomes be Pareto noncomparable?	Because one player prefers the first while another prefers the second, so neither makes everyone weakly better off.	IMEN582 pareto
+Why is Pareto efficiency different from Nash equilibrium?	Pareto asks whether everyone could be made better off jointly; Nash asks whether anyone wants to deviate unilaterally.	IMEN582 pareto NE
+What is Cournot competition?	Firms choose quantities simultaneously; market price is determined by total quantity.	IMEN582 Cournot
+What is the standard inverse demand in the lectures?	\(P=a-bQ\), where a is the choke/intercept price and b measures how strongly price falls as quantity rises.	IMEN582 Cournot demand
+In Cournot duopoly, what is total quantity?	\(Q=q_1+q_2\).	IMEN582 Cournot
+What is firm i's Cournot profit with constant marginal cost c_i?	\(\pi_i=[a-b(q_1+q_2)-c_i]q_i\).	IMEN582 Cournot math
+How do you derive a Cournot best response?	Write profit, differentiate with respect to own quantity, set the FOC to zero, verify SOC<0, then solve for own quantity as a function of rival quantity.	IMEN582 Cournot math
+What is firm 1's Cournot best response under P=a-b(q1+q2)?	\(q_1=\frac{a-c_1}{2b}-\frac{q_2}{2}\).	IMEN582 Cournot math
+Why do Cournot best-response curves slope downward?	Quantities are strategic substitutes: more rival output lowers market price, so your optimal output falls.	IMEN582 Cournot intuition
+How do you find the Cournot NE?	Solve the firms' best-response equations simultaneously.	IMEN582 Cournot NE
+What does the superscript c mean in q_i^c, Q^c, P^c?	It labels the Cournot equilibrium value; it is not an exponent.	IMEN582 Cournot notation
+What is Bertrand competition?	Firms choose prices simultaneously; consumers buy from the lowest-price firm (with ties split under the standard model).	IMEN582 Bertrand
+With homogeneous goods and identical marginal cost c, what is the Bertrand equilibrium?	\(P_1=P_2=c\).	IMEN582 Bertrand
+Why does Bertrand price fall to marginal cost?	Any price above c can be profitably undercut slightly; below c loses money.	IMEN582 Bertrand intuition
+What is the difference between Cournot and Bertrand strategic variables?	Cournot: firms choose quantities. Bertrand: firms choose prices. The same market demand curve can underlie both models.	IMEN582 IO
+How do Cournot, Bertrand, and monopoly usually rank with identical costs?	Price/profit: Bertrand ≤ Cournot ≤ Monopoly. Total quantity: Monopoly ≤ Cournot ≤ Bertrand.	IMEN582 IO
+What is the monopoly quantity condition?	Choose Q to maximize (P(Q)-c)Q; with linear demand this is equivalent to MR=MC.	IMEN582 monopoly
+What is a two-player zero-sum game?	A game where \(\pi_2=-\pi_1\); one player's gain is exactly the other's loss.	IMEN582 zero_sum
+What is a maxmin strategy?	A strategy that maximizes your worst-case payoff: \(\max_{s_i}\min_{s_{-i}}\pi_i(s_i,s_{-i})\).	IMEN582 zero_sum
+What is a minmax strategy?	A strategy that minimizes the opponent's maximum achievable payoff: \(\min_{s_{-i}}\max_{s_i}\pi_i(s_i,s_{-i})\).	IMEN582 zero_sum
+What does von Neumann's minimax theorem say?	In every finite two-player zero-sum game, maxmin value = minmax value = the equilibrium value.	IMEN582 zero_sum theorem
+Do all zero-sum equilibria use the same strategies?	Not necessarily. But all Nash equilibria of a finite two-player zero-sum game give the same equilibrium payoff (value).	IMEN582 zero_sum
+Why is a zero-sum NE described as a saddle point?	One player wants to move payoff upward while the other wants to move it downward; equilibrium is a max in one strategic direction and a min in the other.	IMEN582 zero_sum
+What is Player 2's zero-sum LP intuition?	Choose a mixed strategy that makes every pure action of Player 1 yield at most v, then minimize v.	IMEN582 zero_sum LP
+What is Player 1's zero-sum LP intuition?	Choose a mixed strategy that guarantees at least v against every pure action of Player 2, then maximize v.	IMEN582 zero_sum LP
+Why are the two zero-sum LPs dual?	One maximizes the guaranteed payoff while the other minimizes the opponent's best achievable payoff; strong duality mirrors minimax equality.	IMEN582 zero_sum LP
+Why are general-sum games harder than zero-sum games?	One player's payoff no longer determines the other's objective, so a single LP based on one payoff is insufficient.	IMEN582 general_sum
+What does an LCP slack variable represent in the lecture?	The payoff gap between the equilibrium/best-response payoff and the payoff from a particular action; positive slack means that action is worse than a best response.	IMEN582 LCP
+What is the complementarity condition in the LCP?	\(s_i(a)\,r_i(a)=0\): an action is either unplayed (probability 0) or has zero slack and is a best response.	IMEN582 LCP
+What does complete labeling mean in Lemke–Howson?	For every action, the corresponding label is supplied either because the action is not in support or because it is a best response.	IMEN582 Lemke_Howson
+Why does a 3-action player's mixed-strategy space form a triangle?	Because probabilities x1,x2,x3 satisfy xi≥0 and x1+x2+x3=1: a 2D simplex with three vertices.	IMEN582 Lemke_Howson geometry
+Why does adding the origin turn a 3-action simplex triangle into a pyramid/tetrahedron?	The normalization constraint changes from sum probabilities =1 to ≤1, adding (0,0,0) as a fictitious point.	IMEN582 Lemke_Howson geometry
+What do labels on the boundary of a mixed-strategy space mean?	A player's own missing-action label means that action has probability 0; an opponent-action label means that opponent action is a best response.	IMEN582 Lemke_Howson
+What is the difference between a static and dynamic game?	Static: choices are effectively simultaneous. Dynamic: moves occur sequentially and later actions can depend on earlier history.	IMEN582 dynamic
+What is an extensive-form game?	A game represented by players, order of moves, available actions at each history, and payoffs at terminal histories.	IMEN582 dynamic extensive_form
+In an extensive-form game, what is a pure strategy?	A complete contingent plan specifying what the player would do at every decision point/information set they might face.	IMEN582 dynamic strategy
+Why can a player have more strategies than actions in an extensive-form game?	A strategy specifies an action for every contingency. With two possible decision nodes and two actions at each, there are 2×2=4 complete plans.	IMEN582 dynamic strategy
+What does Player 2 strategy LR mean in the lecture's simple tree?	Choose L after Player 1 plays l, and choose R after Player 1 plays r.	IMEN582 dynamic strategy
+Why can a normal-form NE of a dynamic game be unreasonable?	It may rely on off-path actions that would not be optimal if the corresponding node were actually reached—a noncredible threat.	IMEN582 dynamic NE
+What is backward induction?	Solve the final decision nodes first, replace them by their optimal continuation outcomes, then move backward stage by stage to the initial move.	IMEN582 backward_induction
+What does backward induction eliminate?	Nash equilibria that rely on noncredible future behavior.	IMEN582 backward_induction
+What is Stackelberg competition?	A quantity-setting duopoly where a leader chooses q1 first and a follower observes q1 and then chooses q2.	IMEN582 Stackelberg
+How is Stackelberg solved?	Backward induction: first derive the follower's best response q2=R2(q1), then let the leader maximize profit anticipating that response.	IMEN582 Stackelberg
+What is the Stackelberg follower's best response under linear demand?	\(q_2=R_2(q_1)=\frac{a-c_2}{2b}-\frac{q_1}{2}\).	IMEN582 Stackelberg math
+What is the first-mover advantage in Stackelberg?	The leader commits to output first and can exploit the follower's predictable response, earning more than a Cournot firm with the same cost.	IMEN582 Stackelberg intuition
+Why can total Stackelberg industry profit be lower than Cournot profit even though the leader gains?	The leader produces more aggressively, lowering price. The leader gains, but the follower loses even more, so total profit falls.	IMEN582 Stackelberg intuition
+Is Stackelberg 'closer to monopoly' because it is dynamic?	No. Stackelberg commitment typically makes quantity competition more aggressive, increasing total output and lowering price relative to Cournot.	IMEN582 Stackelberg intuition
+What is perfect information?	At every move, the player knows the full history of play so far.	IMEN582 information
+How is perfect information different from complete information?	Perfect information concerns observing past actions/history; complete information concerns knowing players, actions, and payoff functions.	IMEN582 information
+What is an information set?	A set of decision nodes a player cannot distinguish between when it is their turn to move.	IMEN582 information_set
+What characterizes perfect information using information sets?	Every information set is a singleton.	IMEN582 information_set
+Why does simultaneous play create imperfect information in an extensive-form representation?	The later-drawn player cannot know which earlier node was reached, so those nodes are placed in the same non-singleton information set.	IMEN582 information_set
+What is a proper subgame?	A part of the tree that starts at a non-initial singleton decision node, includes all descendants, and does not cut any information set.	IMEN582 subgame
+What is the easiest rule for checking whether a candidate subgame cuts an information set?	If one node of an information set is inside the candidate subgame, all nodes of that information set must also be inside it.	IMEN582 subgame
+What is a subgame-perfect Nash equilibrium (SPNE)?	A strategy profile that is a Nash equilibrium in the whole game and in every proper subgame.	IMEN582 SPNE
+Why is SPNE stronger than NE?	It requires rational behavior after every possible history, including off-path histories, so noncredible threats are ruled out.	IMEN582 SPNE
+What is the relationship between backward induction and SPNE?	In finite games of complete and perfect information, backward induction yields a SPNE outcome.	IMEN582 SPNE backward_induction
+What is a stage game?	The one-shot static game that is played repeatedly.	IMEN582 repeated_games
+What is a finitely repeated game G(T)?	The stage game played T times, with earlier outcomes observed before later stages and payoffs summed (possibly discounted).	IMEN582 repeated_games
+Why are repeated games dynamic even if the stage game is static?	Later actions can condition on the history of earlier-stage outcomes.	IMEN582 repeated_games
+If a stage game has a unique NE, what happens in a finite repetition under backward induction?	That stage-game NE is played in every stage of the unique subgame-perfect outcome.	IMEN582 repeated_games
+Why doesn't finite repetition rescue cooperation in the Prisoner's Dilemma with a unique stage-game NE?	The final round must play the one-shot NE; knowing this, the previous round has the same incentives, and backward induction repeats the logic to the start.	IMEN582 repeated_games PD
+Why can finite repetition matter when the stage game has multiple NEs?	Different future equilibria can serve as rewards or punishments, changing incentives in earlier stages.	IMEN582 repeated_games
+How can a non-NE action profile in stage 1 be supported in a repeated game?	If following it leads to a sufficiently good continuation equilibrium, while deviating leads to a worse continuation equilibrium.	IMEN582 repeated_games incentives
+What is the key idea behind history-dependent strategies?	A strategy specifies what to do now and what to do later after every possible prior history.	IMEN582 repeated_games strategy
+What is an infinitely repeated game G(∞,δ)?	The stage game repeated forever, with future payoffs discounted by δ.	IMEN582 repeated_games infinite
+What does the discount factor δ represent?	How much players value future payoffs relative to current payoffs; larger δ means greater patience.	IMEN582 repeated_games infinite
+What is a trigger strategy?	Cooperate while the prescribed history continues; after a deviation, switch to a punishment path, often forever.	IMEN582 repeated_games trigger
+Why can infinite repetition sustain cooperation that is not a one-shot NE?	There is no last round, so losing a valuable stream of future payoffs can outweigh a one-time gain from deviation.	IMEN582 repeated_games trigger
+What inequality checks whether a trigger strategy deters deviation?	Present value of obeying forever ≥ one-time deviation payoff + discounted punishment continuation value.	IMEN582 repeated_games trigger math
+In the lecture's infinite example, what condition sustains the trigger strategy?	\(\frac{4}{1-\delta}\ge 5+\frac{\delta}{1-\delta}\), which implies \(\delta\ge\frac14\).	IMEN582 repeated_games trigger math
+What is a feasible payoff in a stage game?	A payoff vector that is a convex combination of pure-strategy payoff vectors.	IMEN582 repeated_games feasible_payoff
+What is the high-level message of Friedman's theorem in the lecture?	If players are sufficiently patient, many feasible payoff profiles that strictly improve on the stage-game NE payoff can be sustained by an SPNE of the infinitely repeated game.	IMEN582 repeated_games theorem
